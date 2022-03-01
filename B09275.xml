@@ -1,0 +1,949 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Decrees of our Holy Father, Pope Innocent XI containing the suppression of an office of the Immaculate Conception of the most Holy Virgin and of a multitude of indulgences : according to the copies at Rome, from the printing-press of the Most Reverend Apostolick Chamber / translated into English out of the French copy, to which the Latine was adjoyn'd, as also here it is, by the direction of an eminent person of honour.</title>
+            <author>Catholic Church. Pope (1676-1689 : Innocent XI)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 35 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09275</idno>
+            <idno type="STC">Wing I200A</idno>
+            <idno type="STC">ESTC R188290</idno>
+            <idno type="EEBO-CITATION">62369326</idno>
+            <idno type="OCLC">ocm 62369326</idno>
+            <idno type="VID">187954</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09275)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187954)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2850:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Decrees of our Holy Father, Pope Innocent XI containing the suppression of an office of the Immaculate Conception of the most Holy Virgin and of a multitude of indulgences : according to the copies at Rome, from the printing-press of the Most Reverend Apostolick Chamber / translated into English out of the French copy, to which the Latine was adjoyn'd, as also here it is, by the direction of an eminent person of honour.</title>
+                  <author>Catholic Church. Pope (1676-1689 : Innocent XI)</author>
+                  <author>Innocent XI, Pope, 1611-1689.</author>
+                  <author>Inchofer, Melchior, 1585?-1648. Epistolae B. Virginis Mariae ad Messanenses veritas vindicata. English &amp; Latin.</author>
+               </titleStmt>
+               <extent>64 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield, Printer to the University, for Ric. Davis,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Imprimatur, John Nicholas, Sept. 18, 1678"--P. 3.</note>
+                  <note>Includes (p. 56-64): An epistle written by the Blessed Virgin Mary to the Messeneses asserted to be true / by P. Melchoir Inchofer. 1629.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+                  <note>Parallel English and Latin texts.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary, --  Blessed Virgin, Saint --  Papal documents.</term>
+               <term>Indulgences --  Papal documents --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:187954:1"/>
+            <pb facs="tcp:187954:1"/>
+            <pb facs="tcp:187954:2"/>
+            <pb facs="tcp:187954:2"/>
+            <p>DECREES OF OUR HOLY FATHER POPE INNOCENT XI.</p>
+            <p>Containing The SUPPRESSION of an Office of the Immaculate Conception of the moſt Holy VIRGIN; And of A Multitude of <hi>IND<g ref="char:V">Ʋ</g>LGENCES.</hi>
+            </p>
+            <p>According to the Copies at <hi>Rome:</hi> From the Printing-Preſs of the moſt Reverend Apoſtolick Chamber.</p>
+            <p>Tranſlated into Engliſh out of the French Copy; (to which the Latine was adjoyn'd, as alſo here it is;) By the direction of an Eminent Perſon of Honour.</p>
+            <p>
+               <hi>OXFORD,</hi> Printed by <hi>LEONARD LICHFIELD,</hi> Printed to the Univerſity, for <hi>Ric. Davis,</hi> 1678.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:187954:3" rendition="simple:additions"/>
+            <pb facs="tcp:187954:3"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Sept.</hi> 18, 1678.</date>
+               </dateline>
+            </opener>
+            <p>IMPRIMATUR,</p>
+            <closer>
+               <signed>
+                  <hi>JOH: NICHOLAS</hi> Vice-Can. <hi>OXON.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="epigraph">
+                  <pb n="4" facs="tcp:187954:4"/>
+                  <q>Prove all things: Hold faſt that which is Good. <bibl>S. <hi>Paul,</hi> 1 <hi>Epiſtle to the Theſſalonians, c,</hi> 5.</bibl>
+                  </q>
+                  <q>Let us not make to our ſelves a Religion out of our own Fancies: For what is Real and True, how ſmall ſoever, is more worth than all that we can invent of our own head. <bibl>S. <hi>Auguſtin in his Book of the True Religion, c.</hi> 55.</bibl>
+                  </q>
+                  <q>What is to be uttered in the preſence of Truth it ſelf, ought not either to be ſpoken, or written, but with great Reverence and Cir<g ref="char:EOLhyphen"/>cumſpection: leaſt we Provoke God more to wrath, even by thoſe things whereby we think to Pacifie him. For nothing can be Pleaſing to him, but what is Honeſt and True. <bibl>
+                        <hi>Letaldus a Monk of Mans, in his Preface to the Life of S. Julian, Biſhop of Mans.</hi>
+                     </bibl>
+                  </q>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb n="6" facs="tcp:187954:5"/>
+                  <div type="decree">
+                     <head>The <hi>SUPPRESSION</hi> of an Office, Of the Immaculate Conception of the moſt <hi>Holy VIRGIN.</hi>
+                     </head>
+                     <p>FRier <hi>Raimund Capiſucci,</hi> of the order of the Preaching Friers, Maſter of the Sacred Apo<g ref="char:EOLhyphen"/>ſtolique Palace, Judge Ordinary, <hi>&amp;c.</hi> By Autho<g ref="char:EOLhyphen"/>rity of the Office we hold; and by expreſs Order of our moſt Holy Father, by Divine Providence Pope <hi>INNOCENT</hi> XI, to us directed; His Ho<g ref="char:EOLhyphen"/>lyneſs having firſt conſulted &amp; heard the Adviſe of the moſt Eminent and moſt Reverend Cardi<g ref="char:EOLhyphen"/>nals, the General Inquiſitors: We do Prohibite, and Declare to be Prohibited, a ſmall Book, Inti<g ref="char:EOLhyphen"/>tuled [<hi>The Office of the Immaculate Conception of the moſt Holy Virgin, our LADY; approved by the Soveraign Pontif, PAUL the Fifth; who hath granted, to whoſoever ſhall devoutly recite the ſame, an Hundred daies Indulgence; as may appear by his Bull of July</hi> 10. 1615. <hi>Printed at Milan, by Francis Vigon.</hi>] Which Office begins with theſe Words. <hi>At Mattins. Ave Maria,</hi> ver. <hi>Eia mea labia nunc annunciate, &amp;c.</hi> (i. e. <hi>Hail Mary. O my lips ſhew ye forth, &amp;c.</hi>) And ends with this Prayer; <hi>Deus qui per Immaculatam Virginis Conceptionem, &amp;c.</hi> (i. e. <hi>O God who by the Im<g ref="char:EOLhyphen"/>maculate Conception of the Virgin, &amp;c.</hi>) Let none therefore of what Order, Degree, or Condition ſoever, dare to keep, read, print, or cauſe to be printed, the ſaid Office: But, ſo ſoon as they
+<pb n="8" facs="tcp:187954:6"/> ſhall have knowledge of this Decree, whoſoever ſhall have the ſaid Office, be required forthwith to deliver the ſame to the Ordinaries, or to the Inquiſitors of the Place; under the Penalties contained in the Index of Books Prohibited. In witneſs whereof, we have given forth this pre<g ref="char:EOLhyphen"/>ſent Decree, (Signed by our Hand, and ratified by our Seal,) the XVII day of <hi>February,</hi> in the Year MDCLXXVIII.</p>
+                     <closer>
+                        <signed>
+                           <hi>Fr. Raimund Capuſucci,</hi> of the Order of the Preaching Friers, Maiſter of the Sacred Apoſto<g ref="char:EOLhyphen"/>lick Palace, <hi>&amp;c.</hi>
+                        </signed> The place of † the Seal.
+</closer>
+                     <postscript>
+                        <p>This day, being <hi>Febr.</hi> 19, 1678, the above-mentioned Decree, was ſet up and Publiſhed at the Gates of the Palace of the Holy Office (of the Inquiſition) and in <hi>Campi Florae,</hi> and other uſual and accuſtomed places of the City, by me <hi>Francis Perid,</hi> Curſitor of our moſt Holy Fa<g ref="char:EOLhyphen"/>ther, and of the moſt Holy Inquiſition.</p>
+                        <closer>
+                           <dateline>At <hi>Rome.</hi> From the Printing-houſe of the moſt Reverend the Apoſtolique Chamber. <date>MDCLXXVIII.</date>
+                           </dateline>
+                        </closer>
+                     </postscript>
+                  </div>
+                  <div type="decree">
+                     <pb n="10" facs="tcp:187954:7"/>
+                     <head>The <hi>SUPPRESSION</hi> of a Multitude of <hi>INDULGENCES.</hi>
+                     </head>
+                     <p>THe Sacred Congregation appointed for re<g ref="char:EOLhyphen"/>gulating Indulgences and Holy Reliques, hath often times received complaints, againſt certain Indulgences diſperſed &amp; carried about in divers parts of the Chriſtian world, which are ſuppoſititious and purely falſe: and others to be examined, which upon diligent Inquiries are found to be either Apocryphal; or by Popes of <hi>Rome</hi> revoked and called in; or null and void, the time for which they were granted being now paſt and expired: Many of which, not being ea<g ref="char:EOLhyphen"/>ſie to be diſcovered by Chriſtian people, not well skilled in theſe affairs; they are thereby deluded and diſappointed of the hopes they had of obtaining Indulgences and Forgiveneſs of their ſins. For which cauſe the ſaid Sacred Con<g ref="char:EOLhyphen"/>gregation, earneſtly deſiring to apply a remedy to this evil, which doth dayly ſpread it ſelf more and more; and to provide for the good of Souls, and the due reſpect of Indulgences; hath with great care and diligence, cauſed a Collecti<g ref="char:EOLhyphen"/>on to be made of divers of them, and an Index or Table made thereof.</p>
+                     <p>Such are thoſe, in the firſt place, which are ſaid to de granted by <hi>John</hi> II. and <hi>Sixtus</hi> IV, to
+<pb n="12" facs="tcp:187954:8"/> thoſe who ſhall ſay the Prayer of the Charity of our Lord Jeſus Chriſt. <hi>We pray Thee moſt grati<g ref="char:EOLhyphen"/>ous Lord, &amp;c.</hi>
+                     </p>
+                     <p>By <hi>Urban</hi> II. granted to the Church of S. <hi>Mary,</hi> commonly called, of <hi>Campagnole,</hi> and of S. <hi>Vi<g ref="char:EOLhyphen"/>ctoria.</hi>
+                     </p>
+                     <p>By <hi>Eugenius</hi> III. to the Revelation made to S. <hi>Bernard,</hi> of a Blow or Stroke on the ſhoulder of our Lord Jeſus Chriſt.</p>
+                     <p>By <hi>Innocent</hi> III. to the Archiconfraternity (or Arch-con-friery,) and rhe Order of the Re<g ref="char:EOLhyphen"/>demption.</p>
+                     <p>By <hi>Boniface</hi> IX. to thoſe who repair to the Chapel of S. <hi>Nicholas</hi> of <hi>Tolentin</hi> on the day of his Feſtival.</p>
+                     <p>By <hi>John</hi> XXII. to thoſe who kiſs the meaſure of the ſole of the Foot of the Bleſſed Virgin.</p>
+                     <p>By <hi>Alexander</hi> VI. to the Image of S. <hi>Mary,</hi> commonly called <hi>Laghetti.</hi>
+                     </p>
+                     <p>By <hi>Leo</hi> X. to thoſe who wear the Cord of S. <hi>Francis.</hi> Printed firſt at <hi>Rome,</hi> and then at <hi>Milan,</hi> in the year 1665. (but there are alſo true Indulgences belonging to the Co-friers of the Archiconfriery of the Cordiliers of S. <hi>Francis.</hi>)</p>
+                     <p>To them that ſhall ſay the Angelical Prayer, when the Clock ſtrikes.</p>
+                     <p>To the Image of the Immaculate conception of the Virgin <hi>Mary,</hi> painted in a circle, with the Moon under her feet.</p>
+                     <p>By <hi>Pius</hi> IV, or <hi>Pius</hi> V. to the Prince of <hi>Sienne.</hi>
+                     </p>
+                     <pb n="14" facs="tcp:187954:9"/>
+                     <p>By <hi>Clement</hi> VIII. to thoſe who ſay the Praye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>O great myſtery,</hi> &amp;c.</p>
+                     <p>To the Church of our Lady (as they call it) of Mount-Serrat. Printed at <hi>Avignon.</hi>
+                     </p>
+                     <p>And likewiſe other Indulgences for the Soul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of Chriſts faithful people departed. Printed a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>Madrid,</hi> July 20. 1606.</p>
+                     <p>By <hi>Paul</hi> V. to thoſe who ſing the Hymn, <hi>We praiſe thee Mother of God, We confeſs thee Virgin Mary,</hi> &amp;c. or who be preſent on Saturday when it is ſung.</p>
+                     <p>And to the Crowns, Roſaries, and Medals, bleſſed by the ſaid Pope, at the requeſt of the Cardinal <hi>Frederick Borromaeus</hi> in the year 161<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> when the Church of <hi>S. Charles</hi> was building a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>Rome.</hi>
+                     </p>
+                     <p>And by the ſame <hi>Paul V, &amp; Gregory XV,</hi> to thoſe who ſay, <hi>Praiſed be the most Holy Sacrament, Praiſe be to the moſt Holy Sacrament.</hi>
+                     </p>
+                     <p>By <hi>Vrban</hi> VIII, in honour of the ſame <hi>Sacra<g ref="char:EOLhyphen"/>ment:</hi> at the requeſt of Cardinal <hi>Magalotti.</hi>
+                     </p>
+                     <p>And to the Prieſts, that, after the celebrati<g ref="char:EOLhyphen"/>on of the <hi>Maſſe,</hi> ſhall ſay, <hi>Hail Daughter of God the Father; Hail Mother of God the Son; &amp;c.</hi>
+                     </p>
+                     <p>By <hi>Clement</hi> X, to thoſe who ſay, morning noon, &amp; night, the accuſtomed Anthymne, <hi>The Angel of the Lord &amp;c.</hi> and in the end of i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:punc">▪</g> 
+                        <hi>Thankes to God &amp; Mary.</hi>
+                     </p>
+                     <p>And likewiſe ſome others, which are ſayd to be granted by ſome Popes of <hi>Rome,</hi> to the Crownes of the myſteries of the paſſion of our
+<pb n="16" facs="tcp:187954:10"/> Lord Jeſus Chriſt: at the requeſt of the Gre Duke of <hi>Tuſcany.</hi>
+                     </p>
+                     <p>Such alſo is that Indulgence of the Confrier of S. <hi>Nicholas;</hi> whereby, upon five times r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>peating the Lords prayer &amp; the Ave-Mary, they pretend to deliver every day one ſoul out o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>Purgatory.</hi>
+                     </p>
+                     <p>Such are thoſe others, of <hi>S. Sebaſtian</hi> &amp; <hi>S. Roc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> at <hi>Perouſe.</hi>
+                     </p>
+                     <p>And, of the Society of <hi>S. Bernard</hi> at Trajan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Pillar, at <hi>Rome.</hi>
+                     </p>
+                     <p>And thoſe of the Croſiers of <hi>S. Euſtorge,</hi> a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>Milan, Arimini</hi> and <hi>Bononia.</hi>
+                     </p>
+                     <p>Of the ſame kind are thoſe which are ſayd t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> be gr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nted to the Chapel of the <hi>Roſary</hi> in th Church of <hi>S. Anthony de Rovigo</hi> or <hi>Rodige.</hi>
+                     </p>
+                     <p>Or to the Church of the moſt Holy Trinity at <hi>Bergome.</hi>
+                     </p>
+                     <p>Or to <hi>S. Peters</hi> of mount <hi>Todon,</hi> on the Feſti<g ref="char:EOLhyphen"/>val of the <hi>Invention of the Holy Croſſe.</hi>
+                     </p>
+                     <p>Or to thoſe who weare the Cord of <hi>S. Francis de Paula.</hi>
+                     </p>
+                     <p>Or to thoſe who ſay the maſſes of <hi>S. Auguſtin.</hi>
+                     </p>
+                     <p>Or five other maſſes, in honour of the five Feſtivals of the Bleſſed Virgin.</p>
+                     <p>Or to thoſe who ſay the office of <hi>S. Franciſca Romana.</hi>
+                     </p>
+                     <p>Or the Anthymn, <hi>Oh the great Paſſion, &amp;c.</hi> in memory of the paſſion of Jeſus.</p>
+                     <p>Or the Roſary of <hi>S. Anne:</hi> (which the Sa<g ref="char:EOLhyphen"/>cred Congregation doth not approve.)</p>
+                     <pb n="18" facs="tcp:187954:11"/>
+                     <p>Or the prayer which is wont to be printed with the Image of <hi>S. Anne, Hail full of grace, &amp;c.</hi> (which prayer is forbid to be ſayd.)</p>
+                     <p>Or, the Office of the Immaculate Conception of the Bleſſed Virgin; which is pretended to be approved by <hi>Paul</hi> V.</p>
+                     <p>Or, the Prayer <hi>O God who for us in holy Li<g ref="char:EOLhyphen"/>nin, &amp;c.</hi> (except the Indulgence of an hundred daies, granted in the year 1671, at the requeſt of the Ducheſs of <hi>Savoy,</hi> to continue for 25 years, for all that live in her dominion.)</p>
+                     <p>Or that other, <hi>Hail Daughter of God,</hi> &amp;c. to be ſaid after the Communion.</p>
+                     <p>Or, to thoſe who by any outward Sign teſtify their veneration of the Name of the moſt holy Sacrament of the Euchariſt.</p>
+                     <p>And likewiſe thoſe Indulgences for Four<g ref="char:EOLhyphen"/>ſcore Thouſand years, coppied out of the Anci<g ref="char:EOLhyphen"/>ent Table which is ſaid to be kept in the <hi>Lateran</hi> Church, to thoſe who ſay this (truly pious) Pray<g ref="char:EOLhyphen"/>er, <hi>O God who for the Redemption of the world,</hi> &amp;c.</p>
+                     <p>And thoſe Printed at <hi>Pavia;</hi> in the year 1670, intituled <hi>A Summary of the Indulgences granted by his Holyneſs our Lord the Pope,</hi> Leo <hi>X. to the Image of the Conception of the Glorious <g ref="char:V">Ʋ</g>irgin Mary.</hi>
+                     </p>
+                     <p>Or, thoſe publiſhed at <hi>Peſaro,</hi> in the year 1608, under the name of S. <hi>Joane.</hi>
+                     </p>
+                     <p>Or at <hi>Barletta</hi> (or <hi>Barule</hi>) to be obtained by by thoſe who ſay certain Prayers, (which yet are not ill ones.)</p>
+                     <pb n="20" facs="tcp:187954:12"/>
+                     <p>Or at <hi>Parma,</hi> for thoſe who in the daies of Lent repair to the Churches of the Third Order of S. <hi>Francis.</hi>
+                     </p>
+                     <p>Or at <hi>Piſtoye,</hi> or <hi>Gaſtalle,</hi> for thoſe who ſay the Prayer, <hi>Haile the moſt Holy Mary, Mo<g ref="char:EOLhyphen"/>ther of God, Queen of Heaven,</hi> &amp;c.</p>
+                     <p>And other Indulgences contained in a Book Printed by it ſelf, of which the Devout Sera<g ref="char:EOLhyphen"/>phick Benefactors are ſaid to have benefit.</p>
+                     <p>To theſe are to be added, the Indulgences ſaid to be granted to the Croſſes of <hi>Caravaca.</hi>
+                     </p>
+                     <p>Or to the Crown, or Stellary, of the Imma<g ref="char:EOLhyphen"/>culate Conception of the Virgin, conſiſting of Twelve Beads.</p>
+                     <p>Or to the Beads, Croſſes, and Crowns of <hi>A<g ref="char:EOLhyphen"/>loyſia de Aſcenſione,</hi> a <hi>Spaniſh</hi> Nunne, of the Order of S. <hi>Clare.</hi>
+                     </p>
+                     <p>Or to the Meaſure of the Hight or our Lord Jeſus Chriſt.</p>
+                     <p>Or to the Image or Meaſure of the Wound made in his ſide.</p>
+                     <p>Or to the Prayer which is ſaid to have been found in our Lords Sepulchre.</p>
+                     <p>And the Indulgences, ſaid to be granted on occaſion of a certain Revelation made to S. <hi>Bri<g ref="char:EOLhyphen"/>git,</hi> S. <hi>Mechteld,</hi> and S. <hi>Elizabeth,</hi> and to <hi>S. Joanne</hi> of the Croſs.</p>
+                     <p>And thoſe which are ſaid to be granted to ſuch Beads as have touched ſome one of the Three Beads, of which the Pope keeps one, the King of <hi>Spain</hi> another, and the other is in the
+<pb n="22" facs="tcp:187954:13"/> hands of the General of the Friers Minors, of the Order of S. <hi>Francis.</hi>
+                     </p>
+                     <p>All and every of which Indulgences the Sacred Congregation declares to be partly Suppoſititi<g ref="char:EOLhyphen"/>ous &amp; wholy Falſ, partly Apocryphal, or on ſome other account Null and voyd, and that they can be of no benefit to any: And doth prohibit for the future their being, in any place whatſoever, publiſhed as true, or propoſed to be obtained by Chriſtian people: And Commands that all Books or Leaves of Paper, wherein they are pro<g ref="char:EOLhyphen"/>poſed or mentioned as ſuch, be deſtroyed or ſuppreſſed, unleſs the ſaid Indulgences be there<g ref="char:EOLhyphen"/>in carefully defaced, or blotted out. Mean while it is not the intention of the ſaid Congre<g ref="char:EOLhyphen"/>gation<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> that other Indulgences, not ſpecified in this Decree, ſhould therefore be accounted true and legitimate, and to be tacitely approved.</p>
+                     <p>And moreover, all Indulgences, which (be<g ref="char:EOLhyphen"/>fore the Decree of <hi>Clement</hi> VIII, made <hi>Jan.</hi> 9, 1597,) were granted to any Bleſſed or Conſe<g ref="char:EOLhyphen"/>crated Crowns, Roſaries, Beads, Croſſes, and Images.</p>
+                     <p>Or, which (before the Bull of <hi>Paulus</hi> V, be<g ref="char:EOLhyphen"/>ginning <hi>The Pope of Rome</hi> &amp;c, Dated <hi>May</hi> 23, 1606,) were made to Regulars (or Religious perſons) of any Religions or Orders whatſoever; the <hi>Mendicants</hi> not excepted.</p>
+                     <p>Or, which, (before the 115 Conſtitution of <hi>Clement</hi> VIII, beginning <hi>Quaecum<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan>,</hi>  and the 68 of <hi>Paulus</hi> v, beginning <hi>Quae ſalubriter</hi> &amp;c.
+<pb n="24" facs="tcp:187954:14"/> were obtained by Aggregation or other Com<g ref="char:EOLhyphen"/>munication, o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> any Archiconfriery, Order, Con<g ref="char:EOLhyphen"/>gregation, Society (that of the Jeſuites not ex<g ref="char:EOLhyphen"/>cepted,) Chapter, or Company whatſoever; or of their Officials, Superiors, or other perſon or perſons; even though ſuch as that ſpecial and particular mention ſhould be made of them; (unleſs they have been afterwards by the autho<g ref="char:EOLhyphen"/>rity of the Pope of <hi>Rome</hi> renewed or confirm<g ref="char:EOLhyphen"/>ed:) are by the ſaid Congregation in like man<g ref="char:EOLhyphen"/>ner declared to be of no force or moment.</p>
+                     <p>Moreover the Summaries of Indulgences for the Congregations of the Chriſtian Doctrine, for the Con-frieries of the moſt Holy Trinity, and Redemption of Captives, of the Name of God, of the Roſary, of our Lady <hi>de la Mercé</hi> and Redemption of Captives, of our Lady of Mount <hi>Carmel,</hi> of the Girdle of S. <hi>Auguſtine,</hi> and of S. <hi>Monica;</hi> are not permitted: unleſs firſt revi<g ref="char:EOLhyphen"/>ſed by the ſaid Congregation.</p>
+                     <p>The ſaid Congregation doth likewiſe declare, that the Indulgences of the Stations of <hi>Rome,</hi> which out of a ſingular favour, have at ſome time been granted by the Popes of <hi>Rome,</hi> or hereafter ſhall be granted to certain Places, Or<g ref="char:EOLhyphen"/>ders and Perſons, can be advantageous on no o<g ref="char:EOLhyphen"/>ther daies of Stations than thoſe which are ex<g ref="char:EOLhyphen"/>preſly ſetdown in the <hi>Roman</hi> Miſſal.</p>
+                     <p>And that a Plenary Indulgence granted to ſuch as do on certain daies repair to a Church, or do ſome other Pious work, be not of advan<g ref="char:EOLhyphen"/>tage to them but for once only the ſame day.</p>
+                     <pb n="26" facs="tcp:187954:15"/>
+                     <p>All theſe the Secretary haveing made Re<g ref="char:EOLhyphen"/>port of to his Holyneſs; his Holyneſs hath ap<g ref="char:EOLhyphen"/>proved them all, and Commanded them to be obſerved inviolably.</p>
+                     <closer>
+                        <dateline>Given at <hi>Rome</hi>
+                           <date>the 7th day of <hi>March,</hi> 1678.</date>
+                        </dateline>
+                        <signed>The Cardinal <hi>Aloyſio Homo-Dei.</hi>
+                        </signed> The place of † the Seal.
+<signed>
+                           <hi>Michael Angelo Ricci,</hi> Secretary.</signed>
+                     </closer>
+                     <postscript>
+                        <p>The 12 day of the Month of <hi>March</hi> 1678, the Decree above ſaid was affixed and publiſhed at the Gates of the Court, and in <hi>Campi Florae,</hi> and other accuſtomed places in the City, by me <hi>Roch de Stephanis,</hi> Curſitor of our Holy Father the Pope.</p>
+                        <closer>
+                           <signed>
+                              <hi>Laurence Segni</hi> Maſter Curſitor.</signed>
+                        </closer>
+                     </postscript>
+                  </div>
+                  <div type="rules">
+                     <pb n="28" facs="tcp:187954:16"/>
+                     <head>The Rules whereby we may Judge of the <g ref="char:V">Ʋ</g>ſefulneſs of theſe <hi>Two DECREES.</hi>
+                     </head>
+                     <p>WE find upon accurate obſervation very often, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t even thoſe things which had been judged right and good, have, upon a more exact examination of the truth, been found far otherwiſe in, S. <hi>Juſt.</hi> 1. <hi>Diſcourſe to the Gentiles.</hi>
+                     </p>
+                     <p>The Truth is not put to ſhame by any thing, but by being ſuppreſſed. <hi>Tertullian againſt the Valentinians.</hi>
+                     </p>
+                     <p>And what, I pray, is it that we have to do? Is it not, what the Canons of the Church re<g ref="char:EOLhyphen"/>quire? ...... But when things are done a<g ref="char:EOLhyphen"/>gainſt the Canon, it's fit they ſhould be reform<g ref="char:EOLhyphen"/>ed. <hi>Pope Julius</hi> 1 <hi>Epiſt. ad Orientales, in the</hi> 11 <hi>A<g ref="char:EOLhyphen"/>pology of Athanaſius.</hi>
+                     </p>
+                     <p>It is diſhonorable and pernicious to Chiſtia<g ref="char:EOLhyphen"/>nity, that thoſe who make profeſſion of it, ſhould in matters of Religion talk ſo abſurdly, that an Infidel who hears them ſo diſcourſing, contrary to all reaſon, cannot but laugh at it. But that which is herein the greateſt trouble, is not, that he who thus talks becomes ridiculous; but, that
+<pb n="30" facs="tcp:187954:17"/> thoſe who are not of the Church take this to be the ſenſe of thoſe that are the Founders of our Religion, ...... And theſe raſh venturous perſons, it is not to be expreſſed, what grief and trouble hereby they do create to prudent, ſober Chriſtians. S. <hi>Auguſtin in his Book, on Geneſis, ad literam, chap.</hi> 19.</p>
+                     <p>For in the prayers of a great many, there be e<g ref="char:EOLhyphen"/>very day many things found amiſs, if heard by the more learned: And many things therein contrary to the Catholick Truth. <hi>The ſame S Aug. l.</hi> 6. <hi>of Baptiſm, againſt the Donatiſts. c.</hi> 25 <hi>And in Gratian</hi>'s <hi>Canon-law. De Conſecrat. Diſt</hi> 4. <hi>ſi non ſanctificatur.</hi>
+                     </p>
+                     <p>Truth gives a luſter and ſplendor to all Art<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> and Diſciplines: And where this is wanting beauty and comlineſs muſt needs be wanting <hi>Iſidore Peluſiote lib.</hi> 2. <hi>Epiſt.</hi> 64.</p>
+                     <p>What hope is there left, when the Maſter (the learned) are ſilent, and the Talkers be thoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> who, if things be as they ſay, were never th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Sholars of thoſe Maſters? I am afraid that th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> ſilence of theirs is a Connivance. I am afrai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> that 'tis thoſe rather may be thought the Speak<g ref="char:EOLunhyphen"/>ers who ſuffer theſe thus to ſpeak without con<g ref="char:EOLunhyphen"/>troll. Silence in ſuch caſes is very ſuſpitiou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> For Truth certainly would oppoſe it, if the fal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>hood were diſpleaſing. 'Tis we therefore mu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> anſwer for it, if by our ſilence we give counte<g ref="char:EOLunhyphen"/>nance to the errour. Let ſuch therefore be ſharp<g ref="char:EOLunhyphen"/>ly rebuked, and not left at liberty thus to ta<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <pb n="32" facs="tcp:187954:18"/> as they liſt. <hi>Pope Celeſtin</hi> 1. <hi>Epist. to the Biſhops of France.</hi>
+                     </p>
+                     <p>He that cannot content himſelf with a few things; 'tis evident that he makes his eſtimate, not by the Worth of things, but by the Bulk of them. <hi>S. Avitus Biſhop of Vienna, in the Dalphiny, Epiſt.</hi> 2. <hi>to King Gundebald.</hi>
+                     </p>
+                     <p>'Tis the ſource of moſt pernicious Errours; in thoſe Authors for whom we have a reverence to be fond of euery thing, &amp; without diſtinction reſolve to juſtify whatever we there meet with. <hi>M. Aurelius Caſſiodorus, a Senator, in his book de divinis Lectionibus, c.</hi> 24.</p>
+                     <p>Next unto God himſelf, we are to reverence the Truth, being that alone which brings us neareſt to God. <hi>Martinus Dumienſis, Biſhop of Bragues, in his Book De moribus.</hi>
+                     </p>
+                     <p>To obſerve alſo inviolable in every point, the holy General Counſils, of <hi>Nice, Conſtantinople,</hi> the firſt of <hi>Epheſus,</hi> of <hi>Calcedon,</hi> the ſecond of <hi>Conſtantinople</hi> held in the time of the Emperour <hi>Juſtinian</hi> of pious memory ...... And to reform whatever ſhall happen to be contrary to the diſ<g ref="char:EOLhyphen"/>cipline of their Canon. <hi>The Journal of the Roman Church, in the Profeſſion of Faith which the Popes were wont to make at their Creation or Election.</hi>
+                     </p>
+                     <p>There be ſome who think they do ſervice to God, if, in order to the putting a greater luſter on his praiſe, they invent Romantick Stories full of untruths. But they would be of another mind, if they well conſidered the words of the great
+<pb n="34" facs="tcp:187954:19"/> Apoſtle, who ſaies to the <hi>Corinthians, If Chriſt be not riſen, then is our Preaching vain, and your faith is alſo vain; yea and we are found falſe wit<g ref="char:EOLhyphen"/>neſſes of God,</hi> &amp;c. according therefore to theſe words of the Apoſtle, he deſerves to be called <hi>A falſe witneſs,</hi> who out of an indiſcreet zeal to praiſe God, tells a Lye: And he doubtleſs bears witneſs againſt God himſelf, who doth unwor<g ref="char:EOLhyphen"/>thily contrive a forgery for his praiſe. <hi>The Car<g ref="char:EOLhyphen"/>dinal</hi> Petrus Damiani <hi>in his Preface to the Life of</hi> S. Maure <hi>Biſhop of</hi> Ceſena <hi>in</hi> Italy; <hi>and in the Pro<g ref="char:EOLhyphen"/>logue to the Life of</hi> S. Romuald.</p>
+                     <p>It belongs to our duty as well to retrench and forbid what is amiſs; as to eſtabliſh what is right, and when ſo eſtabliſhed to enforce it by the ſtrength of our Apoſtolick authority. <hi>Pope</hi> Alex<g ref="char:EOLhyphen"/>ander <hi>the</hi> III, <hi>Epiſt. to</hi> Stephen <hi>Biſhop of</hi> Meaux.</p>
+                     <p>As we do not intend to infringe or make void what by our Predeceſſors hath upon good and adviſed deliberation been eſtabliſhed: ſo alſo thoſe things which have been gotten of them by ſurpriſe, to the Churches detriment and diſho<g ref="char:EOLhyphen"/>nour, we will have reformed, and reduced to a better condition. <hi>Pope</hi> Innocent III, <hi>to the Bi<g ref="char:EOLhyphen"/>ſhop of</hi> Canterbury, <hi>and to other Biſhops.</hi>
+                     </p>
+                     <p>Foraſmuch as falſhood ought not to be ſuffer<g ref="char:EOLhyphen"/>ed under the pretenſe of piety, we do by theſe our Apoſtolick Letters to you directed, Require you to admoniſh the ſaid <hi>Abbat</hi> and <hi>Monks</hi> to deſiſt from ſuch preſumptions. ...... For it is no way conducing to their ſalvation or their re<g ref="char:EOLhyphen"/>puration
+<pb n="30" facs="tcp:187954:20"/> to make a gain by Preaching a Lye.... The XV. year of our Popedome. <hi>The ſame Pope, l.</hi> 3. <hi>Epiſt.</hi> 10. <hi>to the</hi> Abbat <hi>and</hi> Prior <hi>of</hi> S. Victor.</p>
+                     <p>In this (ſixth) rank, we are to reckon the Le<g ref="char:EOLhyphen"/>gends and Miracles of Saints, the Lives of the Fathers, the Viſions of devout perſons, the Ci<g ref="char:EOLhyphen"/>tations and Opinions of holy Doctors. All which the Church admits, not as things neceſſary to be believed in order to ſalvation, but as things conducing to excite devotion in Chriſtians, and for their edification: Provided, there be nothing therein contained which is known to be falſe. John Gerſon <hi>Chancellare of the Church of</hi> Paris; <hi>in his Declaration of Truths to be believed as neceſ<g ref="char:EOLhyphen"/>ſary to ſalvation.</hi>
+                     </p>
+                     <p>The abuſes, which are crept into the Church of God, it becomes us by the exerciſe of our autho<g ref="char:EOLhyphen"/>rity to take away. <hi>Pope</hi> Nicolaus V, <hi>in his Conſtitu<g ref="char:EOLhyphen"/>tion touching the conferring of Benefices in</hi> Germany.</p>
+                     <p>The Wheat as yet is covered with the husks. The Biſhop of <hi>Rome</hi> is not able to pry into and ſearch the hearts of men. <hi>Mans heart is wicked and unſearchable, who can know it? 'Tis I the Lord that ſearch the heart and try the reines.</hi> 'Tis God alone is able to do this..... There are in man a thouſand windings, a thouſand artifices to deceive, a thouſand tricks for miſchief. In his heart is one thing, in his mouth the quite contrary. 'Tis but few that are truly good, and vorthy the love of God, not carried on with varice: But the greateſt part of men by much
+<pb n="38" facs="tcp:187954:21"/> are hypocrites and counterfeits; more are deſi<g ref="char:EOLhyphen"/>rous to ſeem good, than to be ſo; Wolves in Sheeps clothing. It is not therefore to be won<g ref="char:EOLhyphen"/>dred at, if the Popes prudence be ſometimes impoſed upon; and favours obtained for money. Aeneas Silvius <hi>Cardinal</hi> of <hi>Sene, (afterwards Pope, by the name of</hi> Pius II.) <hi>in an Epiſtle to</hi> Martin Meyer <hi>Chancellar to the Archbiſhop of</hi> Mayence.</p>
+                     <p>Care is to be had alſo, that by pretence of falſe Miracles <hi>(we may as well ſay Falſe Indulgences)</hi> we do not injury to thoſe that are true. <hi>The Fa<g ref="char:EOLhyphen"/>culty of Divinity at</hi> Paris; <hi>in anſwer to a conſulta<g ref="char:EOLhyphen"/>tion concerning the ſouls of perſons deceaſed appear<g ref="char:EOLhyphen"/>ing after they be dead,</hi> January 22, 1534.</p>
+                     <p>The holy Synod <hi>(of Trent)</hi> doth declare and ordain, that the uſe of Indulgences being very wholſome for Chriſtian people, and approved by authority of Sacred Councils, is to be retained in the Church, And doth Anathematize thoſe who who ſay they are uſeleſs, and deny that there is in the Church a power to grant them. But deſi<g ref="char:EOLhyphen"/>reth nevertheleſs that, according to the ancient and approved cuſtome in the Church, a mode<g ref="char:EOLhyphen"/>ration be uſed in the granting of them: leaſt by too great a facility therein the diſcipline of the of the Church be infeebled. But being deſirous that the abuſes which herein have crept in, and have been an occaſion that the favourable name of Indulgences hath been reproached by Here<g ref="char:EOLhyphen"/>ticks, be reformed and corrected; doth by this preſent Decree Ordain in the general, that all
+<pb n="40" facs="tcp:187954:22"/> wicked waies of making gain for the obtaining of them be wholy aboliſhed, as from whence hath iſſued the cauſe of manyfold abuſes amongſt Chriſtian people. And as for other abuſes, pro<g ref="char:EOLhyphen"/>ceeding from ſuperſtition, ignorance, irreverence, or from any other cauſe, or in what manner ſo<g ref="char:EOLhyphen"/>ever, foraſmuch as they cannot eaſily be all pro<g ref="char:EOLhyphen"/>hibited in particular, by reaſon of the manifold corruptions of the different places and provinces wherein theſe abuſes are committed; Doth ſtrict<g ref="char:EOLhyphen"/>ly charge all Biſhops, that every one as to his own Church do make a diligent collection of ſuch kind of abuſes, and make report of them in the firſt Provincial Synod; to the end that they may be cenſured by the ſuffrages of the other Biſhops alſo, and thence tranſmitted forthwith to the Soveraign Roman Pontif, and by his authority and prudence it be ſo ordained as may be moſt expedient for the univerſal Church; ſo that by this meanes the Treaſure of the holy Indulgences be diſtributed to all Chriſtian people in a pious and holy manner, and without corruption. <hi>Coun<g ref="char:EOLhyphen"/>cil of Trent, Seſſ.</hi> 25. <hi>in the Decree touching In<g ref="char:EOLhyphen"/>dulgences.</hi>
+                     </p>
+                     <p>I ſay it more out of ſorrow, than by way of re<g ref="char:EOLhyphen"/>proach; that the Lives of the Philoſophers by <hi>Diogenes Laertius</hi> are written with more ſeriouſ<g ref="char:EOLhyphen"/>neſs, than the Lives of the Saints by Chriſtians. And that <hi>Suetonius</hi> hath with much more inte<g ref="char:EOLhyphen"/>grity and leſs corruption related the affairs of the Caeſars, than Catholicks have done (I ſay not
+<pb n="42" facs="tcp:187954:23"/> thoſe of their Emperors, but) of their Martyrs, Virgins, and Confeſſors ⸫⸪ I forbear to name perſons. But certain it is, that thoſe who thus mingle the Eccleſiaſtick Hiſtory with ficti<g ref="char:EOLhyphen"/>ons and falſhood, cannot be good men, or perſons of honeſty; and that the whole of their Narra<g ref="char:EOLhyphen"/>tions is purpoſely deſigned either in order to Lucre, or in order to Errour; the one whereof is baſe and ſordid, the other miſchievous &amp; per<g ref="char:EOLhyphen"/>nicious <g ref="char:quaddotr">.˙.˙</g>. So that, thoſe who have gone a<g ref="char:EOLhyphen"/>bout by fictions and falſe ſtories to ſtir up in mens minds a devotion for the Saints, have but (as I may judge) by theſe falſe ſtories impaired the credit of thoſe which are true; and what has been moſt accurately delivered by the moſt ſerious Authors is by this means become queſti<g ref="char:EOLhyphen"/>onable <g ref="char:quaddotr">.˙.˙</g>. As though theſe holy men of God, who had in truth done and ſuffered ſo much for Chriſt, did ſtand in need of our Lies! Ad<g ref="char:EOLhyphen"/>mitting then that theſe fictions, how falſ ſoever, might with ſo much wit and artifice be compo<g ref="char:EOLhyphen"/>ſed as not to do hurt; they are at beſt but uſe<g ref="char:EOLhyphen"/>leſs and of no real ſervice, and (like laſy Sol<g ref="char:EOLhyphen"/>diers) the burden of them is more than the ad<g ref="char:EOLhyphen"/>vantage; they hinder more than they help <g ref="char:quaddotr">.˙.˙</g> They do therefore a great deal of miſchief to Chriſts Church, who think they can never write a good hiſtory of the worthy deeds of Saints, unleſs embelliſhed with forged Revelations and falſe Miracles. <hi>Melchior Canus (who was one of the Divines in the Council of Trent,) lib.</hi> 11. <hi>de locis, ch.</hi> 4.</p>
+                     <pb n="44" facs="tcp:187954:24"/>
+                     <p>Making his viſite in thoſe parts <hi>(de Liano)</hi> he underſtood that near the church of that place there was a Coffin of Stone with ſome bones in it which were had in great veneration, as true reliques of Saints: There being a common re<g ref="char:EOLhyphen"/>port that the night before the Feaſt of S. <hi>Peter in vinculis</hi> (or Lamm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s day,) there did in mira<g ref="char:EOLhyphen"/>culous manner come forth of thoſe bones ſo great a quantity of water that it filled the whole Coffin: and though thoſe of the neighbourhood came in great numbers that day to take of that water, which they held to be a thing miraculous &amp; holy, yet was the water not at all diminiſhed, but the Coffin ſtill continued full <g ref="char:quaddotr">.˙.˙</g>. The Cardinal <hi>(S. Charles Borromeus)</hi> who held the reliques of Saints in great Veneration where e<g ref="char:EOLhyphen"/>ver he met with them, would needs come ſee theſe and examine them, that thereupon he might particularly recommend them to the people for their greater veneration. Whence came the Proverb, <hi>That Cardinal</hi> Borromeo <hi>would neither let the living, nor the dead be at reſt.</hi> Reſolving then to viſite theſe bones, and inqui<g ref="char:EOLhyphen"/>ring diligently how they came there, he could find nothing of certainty. He thereupon began to ſuſpect it was ſome deviliſh cheat. And to e<g ref="char:EOLhyphen"/>vidence the truth, he cauſed the Coffin and the bones to be well dryed; and then committed the cuſtody thereof to three Prieſts, whom he could truſt, that ſame night on which the water uſed to come forth: And then there appearing no
+<pb n="46" facs="tcp:187954:25"/> ſign of water at all; it was thereby diſcovered to be a meer artifice and cheat. And, to make proviſion againſt ſo great an abuſe, he cauſ<g ref="char:EOLhyphen"/>ed both the Coffin and reliques to be buried under ground, that the people might not any more be cheated to that falſe worſhip. Which thing was received by the people of thoſe parts with great admiration, extolling the Cardinal as a holy man, and having the ſpi<g ref="char:EOLhyphen"/>rit of God with him. <hi>Johannes Petrus Iſſuanus, a Prieſt of</hi> Milan, <hi>in the Life of S. Charles; lib.</hi> 6. <hi>chap.</hi> 7. <hi>The thing was done in the year</hi> 1580.</p>
+                     <p>We Ordain that the Biſhops be careful to have the Breviaries within their Dioceſs to be well &amp; accurately corrected; and that things therein appointed to be read, be reformed by judicious and skillful perſons, according to the truth of hiſtory, out of the records and writings of anci<g ref="char:EOLhyphen"/>ent approved Authors. <hi>The Provincial Council of</hi> Tours, <hi>held in the year</hi> 1583. <hi>ch.</hi> 15. <hi>De Paroecis &amp; Preſbyteris.</hi>
+                     </p>
+                     <p>Honour and Virtue, two of the Heathens Dei<g ref="char:EOLhyphen"/>ties, had their two Temples built cloſe together, and unto that of Honour there was no paſſage but through that of Virtue. In like manner amongſt Chriſtians, to whom all Will-worſhip is inter<g ref="char:EOLhyphen"/>dicted, Truth and Piety ought not to be diſ<g ref="char:EOLhyphen"/>joyned, nor indeed can they be. 'Tis with them only that Devotion or Piety is built upon Truth. <g ref="char:quaddotr">.˙.˙</g>. Devotion therefore is to be joyned with Truth; not blended with Forgeries or Falſhood
+<pb n="48" facs="tcp:187954:26"/> 
+                        <hi>Joh. Launoye, a</hi> Pariſian <hi>Divine, in an Epiſtle to to the Cardinal Francis Barberine, at the beginning of his Treatiſe againſt the Viſion of Simon Stoch, and the Priviledge of the Bull called Sabbathine,</hi> &amp;c.</p>
+                     <p>The Bull called <hi>Sabbathine,</hi> is ſpurious: and the Viſion of <hi>Simon Stoch,</hi> a forgery of the Thirteenth Century. We commend the action of S. <hi>Martin,</hi> who refuſed to offer on an Altar dedicated to a Robber, &amp; cauſed it afterwards to be deſtroyed. Like commendations we allow to thoſe who make it their buſineſs to Correct the Offices of Saints: and judge thoſe to be guilty of grievous ſin, whoever put Fables or Fictions into books of the church, or hinder them from being put out. <hi>Theſes in Divinity, of</hi> Claude Blouin, <hi>a Prieſt of</hi> Paris <hi>and Licentiate of the Faculty of Di<g ref="char:EOLhyphen"/>vinity there; maintained in the Sorbon at the Act of the <g ref="char:V">Ʋ</g>eſpers,</hi> October 24. 1674. <hi>Column.</hi> 3, 4.</p>
+                     <p>The Bull called <hi>Sabbathine</hi> is ſpurious; and unworthy a Pope of <hi>Rome. Theſes in Divinity, of</hi> Noel Varet, <hi>a Prieſt of Pariſe, a Licentiate in the ſacred Faculty of</hi> Paris, <hi>a Fellow of the Colledge of</hi> Navarre; <hi>maintained in the College of</hi> Navarre <hi>at an Act of the <g ref="char:V">Ʋ</g>eſpers,</hi> Aug. 23. 1677. <hi>Col.</hi> 4.</p>
+                     <p>There be a great many Conſtitutions aſcribed to the Popes of <hi>Rome,</hi> which never proceeded from them .... And in particular the Bull com<g ref="char:EOLhyphen"/>monly called <hi>Sabbathine,</hi> I take to be ſuppoſititi<g ref="char:EOLhyphen"/>ous and falſly aſcribed to Pope <hi>Joh.</hi> XXII. For what can be more ridiculous, or more unworthy
+<pb n="50" facs="tcp:187954:27"/> a Pope of <hi>Rome,</hi> than to affirm; <q>That the Vir<g ref="char:EOLhyphen"/>gin <hi>Mary</hi> ſhould make a promiſe to one that he ſhould be Chriſts Vicar upon earth, on con<g ref="char:EOLhyphen"/>dition that he grant a confirmation of the Or<g ref="char:EOLhyphen"/>der of the <hi>Carmelites:</hi> That every one who is a Carmelite, and enters that holy Order, ſhall obtain eternal Salvation: That the Satur<g ref="char:EOLhyphen"/>day next afer any of the Brothers or Siſters of the Order of the Carmelites do dye, the Vir<g ref="char:EOLhyphen"/>gin <hi>Mary</hi> will go down into Purgatory and deliver thence all that ſhe finds there, and bring them back to the Mountain of Eternal Life.</q> Away with theſe fooleries, and ſuch as theſe are, from the true Profeſſors of the Catho<g ref="char:EOLhyphen"/>lick, the Apoſtolick, and the Roman Faith and Religion. <hi>Theſes in Divinity maintained in the School of the Jacobins, by</hi> Noel <hi>de</hi> Bretigneres, <hi>Prieſt of</hi> Verneuil <hi>and Licentiate in the Sacred Fa<g ref="char:EOLhyphen"/>culty of</hi> Pariſe, <hi>in an Act of the <g ref="char:V">Ʋ</g>eſpers,</hi> Septemb. 13. 1677.</p>
+                  </div>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="lat">
+            <front>
+               <div type="epigraph">
+                  <pb n="5" facs="tcp:187954:4"/>
+                  <q>Omnia probate: quod bonum eſt, tenete. <bibl>
+                        <hi>Paulus, 1 Theſſalonic. v.</hi>
+                     </bibl>
+                  </q>
+                  <q>Non ſit nobis religio in phantaſmatibus noſtris: melius eſt enim qualecuu<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> verum, quam quid<g ref="char:EOLhyphen"/>quid pro arbitrio fingi potest. <bibl>
+                        <hi>S. Aug. lib. de ve<g ref="char:EOLhyphen"/>ra religione Cap. LV.</hi>
+                     </bibl>
+                  </q>
+                  <q>Cum magnae reverentiae gravitate dicenda, &amp; ſcribenda ſunt, quae in conſpectu veritatis recitari debent; ne unde Deus placari creditur, inde am<g ref="char:EOLhyphen"/>plius ad iracundiam provocetur. Nihil enim ei placet, niſi quod verum eſt. <bibl>
+                        <hi>Letaldus Monachus Cenomanenſis in prologo Vitae S. Juliani Ceno<g ref="char:EOLhyphen"/>menſis Epiſcopi.</hi>
+                     </bibl>
+                  </q>
+                  <gap reason="missing" extent="1 page">
+                     <desc>〈1 page missing〉</desc>
+                  </gap>
+               </div>
+            </front>
+            <body>
+               <div type="decree">
+                  <pb n="7" facs="tcp:187954:5"/>
+                  <head>DECRETUM.</head>
+                  <p>FRater Raimundus Capiſuccus, ordinis Praedi<g ref="char:EOLhyphen"/>catorum, Sacri Palatii Apoſtolici Magiſter, Judex ordinarius, &amp;c. Auctoritate officii quo fun<g ref="char:EOLhyphen"/>gimur, ac de mandato ſpeciali Sanctiſſimi <hi>D. N.</hi> Domini INNOCENTII, Diviná provi<g ref="char:EOLhyphen"/>dentiâ PAPAE XI, Auditis prius a Sanctitate ſua Eminentiſſimorum DD Cardinalium, genera<g ref="char:EOLhyphen"/>lium Inquiſitorum votis, nobis impoſito: Prohibemus, prohibitumque decernimus, libellum inſcriptum, <hi>Officio della immacolata concettione della San<g ref="char:EOLhyphen"/>ctiſſima Vergine noſtra ſignora, approvato dal Sommo Pontefice Paola V. il quale à chi devo<g ref="char:EOLhyphen"/>tamente lo recitara concede indulgenza di cento giorni, come appariſce nel ſuo Breve dato in Roma li X Juglio M.DC.XV. in Milano per Franceſco Vigone.</hi> Quod quidem officium in<g ref="char:EOLhyphen"/>cipit per haec verba: <hi>Ad matutinum. Ave Maria.</hi> ver. <hi>Eia mea labia nunc annunciate, &amp;c.</hi> Et de<g ref="char:EOLhyphen"/>ſinit cum oratione: <hi>Deus qui per immaculatam Virginis conceptionem.</hi> Nemo igitur cujuſ<g ref="char:EOLhyphen"/>cunque ordinis, gradûs, et conditionis exiſtat, praefatum Officium apud ſe retinere, legere, impri<g ref="char:EOLhyphen"/>mere vel imprimi curare audeat: ſed ſtatim a
+<pb n="9" facs="tcp:187954:6"/> praeſentis decreti notitia, quicunque illud habuerit, locorum Ordinariis, aut Inquiſitoribus tradere teneatur, ſub poenis in Indice librorum prohibitorum contentis. In quoru<g ref="char:cmbAbbrStroke">̄</g> fidem praeſens decretum a nobis propriâ manu ſubſcriptum, et ſigillo noſtro munitum, dedimus, die XVII Februarii, An. M.DC.LXX <hi>VIII.</hi>
+                  </p>
+                  <closer>
+                     <signed>Fr. Raimundus Capiſuccus, or<g ref="char:EOLhyphen"/>dinis Praedicatorum, Sacri Pala<g ref="char:EOLhyphen"/>tii Apoſtolici Magiſter. <hi>&amp;c.</hi>
+                     </signed> Loco † Sigilli.
+</closer>
+                  <postscript>
+                     <p>Die XIX <hi>Febr.</hi> M.DC.LXXVIII. Supra<g ref="char:EOLhyphen"/>dictum Decretum affixum &amp; publicatum fuit ad Valvas Palatii S. Officii, &amp; in acie Campi Flo<g ref="char:EOLhyphen"/>rae, &amp; aliis locis ſolitis &amp; conſuetis Vrbis, per me <hi>Franciſcum Peridum,</hi> Sanctiſſimi Domini noſtri, &amp; Sanctiſſimae Inquiſitionis Curſ.</p>
+                     <closer>
+                        <dateline>
+                           <hi>Romae</hi> ex Typographia Rev. Camera Apoſtolicae. <date>M.DC.LXXVIII.</date>
+                        </dateline>
+                     </closer>
+                  </postscript>
+               </div>
+               <div type="decree">
+                  <pb n="11" facs="tcp:187954:7"/>
+                  <head>ALIUD DECRETUM.</head>
+                  <p>Delata ſaepiùs fuere ad Sacram Congregationem indulgentiis ſacriſque reliquiis praepoſitam, Indulgentiae quaedam confictae &amp; omnino falſae, quae per diverſas Orbis Chriſtiani partes circumferuntur; aliae vero examinandae, quae, adhibito ſtudio, in<g ref="char:EOLhyphen"/>ventae ſunt vel apocryphae, vel a Romanis Pontifi<g ref="char:EOLhyphen"/>cibus revocatae, vel nullae, quòd datum eis tempus praeteriiſſet: Quarum quidem plurimae, cùm non fa<g ref="char:EOLhyphen"/>cilem cognitionem habeant Chriſti fideles, harum re<g ref="char:EOLhyphen"/>rum minus peritos fallunt, qui ſpe indulgentiae re<g ref="char:EOLhyphen"/>miſſioniſque peccatorum ſuorum conſequendae fru<g ref="char:EOLhyphen"/>ſtrantur. Quamobrem eade<g ref="char:cmbAbbrStroke">̄</g> Sacra Congregatio vehe<g ref="char:EOLhyphen"/>menter cupiens huic malo magis indies ſerpenti oc<g ref="char:EOLhyphen"/>currere, animarum profectui, et indulgentiarum dig<g ref="char:EOLhyphen"/>nitati conſulere, plures illarum ſingulari diligentiâ colligi, et in indicem referri curavit.</p>
+                  <p>Tales imprimis ſunt illae, uti aſſerunt, conceſſae a Joanne II. Et Sixto IV. recitantibus orationem
+<pb n="13" facs="tcp:187954:8"/> charitatis Jeſu Chriſti Domini noſtri: <hi>Precetor <gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ſſime Domine. &amp;c.</hi>
+                  </p>
+                  <p>Ab <g ref="char:V">Ʋ</g>rbano II. Eccleſiae S. Mariae, ut vulgò <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ici ſolet, Campagnolae, et S. Victoriae.</p>
+                  <p>Ab Eugenio III. revelationi de plaga in humero eſu Chriſti factae S. Bernardo.</p>
+                  <p>Ab Innocentio III. Archiconfraternitati, &amp; or<g ref="char:EOLhyphen"/>ini Redemptionis.</p>
+                  <p>A Bonifacio IX. viſitantibus capellam S. Nico<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ai de Tolentino in ejus die Feſto.</p>
+                  <p>
+                     <hi>A</hi> Joanne XXII. oſculantibus menſuram plantae pe<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is B. Mariae Virginis.</p>
+                  <p>Ab Alexandro VI. imagini B. Mariae, vul<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gò dictae <hi>Laghetti.</hi>
+                  </p>
+                  <p>A Leone X. geſtantibus funiculum S. Fran<g ref="char:EOLhyphen"/>ciſci, primùm in urbe impreſſae, deinde Mediola<g ref="char:EOLhyphen"/>ni. An. M.DC.LXV. (ſuas tamen habent &amp; veras Confratres Archi confraternitatis Cordige<g ref="char:EOLhyphen"/>rorum S. Franciſci.)</p>
+                  <p>Recitantibus orationem Angelicam ad pulſum horologii.</p>
+                  <p>Et imagini conceptionis Mariae Virginis imma<g ref="char:EOLhyphen"/>culatae, in circulo depictae, cujus pedibus Luna ſubjecta est.</p>
+                  <p>A Pio IV. vel Pio V. principi Senarum.</p>
+                  <pb n="15" facs="tcp:187954:9"/>
+                  <p>A Clemente VIII. dicentibus orationem: <hi>O Magnum myſterium,</hi> &amp;c.</p>
+                  <p>Et Eccleſiae S. Mariae quam vocant Montis-Serrati. A venione impreſſae.</p>
+                  <p>Tum aliae pro animabus Chriſti fidelium defun<g ref="char:EOLhyphen"/>ctorum, impreſſae Matriti XX. Julii M.DC.VI.</p>
+                  <p>A Paulo V. cantantibus hymnum: <hi>Te Matrem Dei laudamus, Te Mariam Virginem confite<g ref="char:EOLhyphen"/>mur,</hi> &amp;c. vel ſi die Sabbathi intererint, dum idem cantatur.</p>
+                  <p>Et Coronis, Roſariis, Imaginibus, &amp; Numiſ<g ref="char:EOLhyphen"/>matibus (quae Medallias appellant) ab eo benedictis, Frederico Cardinali Borromaeo ſupplicante Ann. M.DC.XI. dum Eccleſia Romae in honorem S. Caroli aedificaretur.</p>
+                  <p>Et ab eodem Paulo, &amp; Gregorio XV. dicen<g ref="char:EOLhyphen"/>tibus, <hi>Sia lodato il Sanctiſſimo Sacramento, Laus Sanctiſſimo Sacramento.</hi>
+                  </p>
+                  <p>Ab Urbano VIII. in honorem ejuſdem Sacra<g ref="char:EOLhyphen"/>menti, precibus Cardinalis Magalotti.</p>
+                  <p>Et Sacerdotibus, celebratâ Miſſâ, dicentibus: <hi>Ave Filia Dei Patris, Ave Mater Dei Filii,</hi> &amp;c.</p>
+                  <p>A Clemente X. recitantibus, mane, meridie, ac veſpere conſuetam antiphonam, <hi>Angelus Domi<g ref="char:EOLhyphen"/>ni.</hi> &amp;c. &amp; in fine: <hi>Deo gratias &amp; Mariae.</hi>
+                  </p>
+                  <p>Ac demum aliae à nonnullis Romanis Pontifici<g ref="char:EOLhyphen"/>bus tributa, ut ajunt, Coronis Myſteriorum paſſio<g ref="char:EOLhyphen"/>nis
+<pb n="17" facs="tcp:187954:10"/> D. N. Jeſu Chriſti, prece Magni Ducis Etruriae.</p>
+                  <p>Talis indulgentia ſodalitatis S. Nicolai, qua, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>epetita quinquies Oratione Dominicâ, &amp; ſalu<g ref="char:EOLhyphen"/>tatione Angelicâ, unam liberari animam quolibet die à purgatorii poenis affirmant.</p>
+                  <p>Talès aliae Peruſii confraternitatis SS. Sebaſtia<g ref="char:EOLhyphen"/>ni &amp; Rochi.</p>
+                  <p>Et, Romae, ſocietatis S. Bernardi ad columnam Trajani.</p>
+                  <p>Tales demum aliae Cruce-ſignatorum S. Euſtor<g ref="char:EOLhyphen"/>gii, Mediolani, Arimini, &amp; Bononiae.</p>
+                  <p>Ejus generis ſunt &amp; illae conceſſae, ut ajunt, Ca<g ref="char:EOLhyphen"/>pellae Roſarii in Eccleſia S. Antonii de Rodigo, ſeu Rodigii.</p>
+                  <p>Vel Eccleſiae Sanctiſſim ae Trinitatis Bergomi.</p>
+                  <p>Aut S. Petri Montis Todoni die feſto Inventio<g ref="char:EOLhyphen"/>nis Sanctiſſimae crucis.</p>
+                  <p>Vel geſtantibus funiculum S. Franciſci de Paula.</p>
+                  <p>Vel celebrantibus Miſſas S. Auguſtini.</p>
+                  <p>Aut aliàs V. feſtivitatum in honorem <hi>v</hi> feſti<g ref="char:EOLhyphen"/>vitatum B. Virginis.</p>
+                  <p>Vel recitantibus Officium S. Franciſcae Ro<g ref="char:EOLhyphen"/>manae.</p>
+                  <p>Aut antiphonam: <hi>O! Paſſio Magna,</hi> &amp;c. in memoriam paſſionis Jeſu.</p>
+                  <p>Aut Roſarium S. Annae [quod Congregatia ſa<g ref="char:EOLhyphen"/>cra non probat.]</p>
+                  <pb n="19" facs="tcp:187954:11"/>
+                  <p>Aut orationem, quae impreſſa cum imagine S. Annae circumferri ſolet: <hi>Ave gratiâ plena, &amp;c.</hi> [quae oratio prohibetur.]</p>
+                  <p>Aut Officium Conceptionis B. Virginis Imma<g ref="char:EOLhyphen"/>culatae, quod aſſerunt a Paulo V. probatum fuiſse.</p>
+                  <p>Aut orationem: <hi>Deus qui pro nobis in Sanctâ ſyndone, &amp;c.</hi> [Excipitur indulgentia cen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um dierum An. <hi>M.DC.LXXI.</hi> conceſſa precibus Du<g ref="char:EOLhyphen"/>ciſſae Subaudiae ad Annos <hi>XXV.</hi> cunctis in illius ditione degentibus.]</p>
+                  <p>Aut aeliam: <hi>Ave Filia Dei, &amp;c.</hi> post commu<g ref="char:EOLhyphen"/>nionem recitandam.</p>
+                  <p>Vel aliquo conſpicuo ſigno venerantibus Sanctiſ<g ref="char:EOLhyphen"/>ſimi Euchariſtiae Sacramenti nomen.</p>
+                  <p>Indulgentiae rurſus octoginta millium annorum, veteri de tabula exſcriptae, quam in Baſilica La<g ref="char:EOLhyphen"/>teranenſi aſſervari affirmant pro dicentibus oratio<g ref="char:EOLhyphen"/>nem illam vere piam: <hi>Deus qui pro redemptione mundi, &amp;c.</hi>
+                  </p>
+                  <p>Tum quae impreſſae fuerunt Paviae, An. <hi>M.DC.LXX.</hi> ſub hoc titulo <hi>(Sommario delle indulgenze con<g ref="char:EOLhyphen"/>ceſſe dalla Santita di noſtri ſignore Papa Leonex. all imagine della concettione della glorioſa Ver<g ref="char:EOLhyphen"/>gine Maria.)</hi>
+                  </p>
+                  <p>Vel Piſauri ſub nomine B. Joanna An. <hi>M.DC.VIII.</hi> vulgatae.</p>
+                  <p>Vel Barlettae, ſeu Baretuli, à recitantibus quaſ<g ref="char:EOLhyphen"/>dam non ſanc malas orationes lucrandae.</p>
+                  <pb n="21" facs="tcp:187954:12"/>
+                  <p>Vel, Parinae à viſitantibus per Quadrageſima dies Eccleſias tertii ordinis S. Franciſci.</p>
+                  <p>Vel, Piſtarii &amp; Vaſtellae, à recitantibus oratio<g ref="char:EOLhyphen"/>nem; <hi>Ave Sanctiſſima Maria, Mater Dei, Re<g ref="char:EOLhyphen"/>gina Coeli,</hi> &amp;c.</p>
+                  <p>Et aliae in peculiari impreſſo libro deſcriptae, quibus frui dicunt devotos Seraphicos Benefactores.</p>
+                  <p>His annumerandae ſunt quae crucibus Carave<g ref="char:EOLhyphen"/>cenſibus tributae dicuntur.</p>
+                  <p>Vel Coronae, ſive ſtellario conceptionis Virginis immaculatae, quodex <hi>XII</hi> globulis precaeriis con<g ref="char:EOLhyphen"/>ſtat.</p>
+                  <p>Vel granis, crucibus, &amp; Coronis Aloyſiae ab Aſcenſione Hiſpanae monialis ordinis S. Clarae.</p>
+                  <p>Vel menſurae altitudinis Jeſu Chriſti D. N.</p>
+                  <p>Vel imagini aut menſurae vulneris lateri ejus in<g ref="char:EOLhyphen"/>flicti.</p>
+                  <p>Vel orationi (ut aiunt) in Sepulchro Domini no<g ref="char:EOLhyphen"/>ſtri repertae.</p>
+                  <p>Et indulgentiae, ut aiunt, innixae revelationi factae SS. Brigittae, Mectildi, &amp; Elizabet, vel B. Joannae de Cruce.</p>
+                  <p>Et conceſſae, ut aſſerunt, granis quae aliquod ex tribus granis tetigerint exſtantibus penes Romanum Pontificem, Hiſpaniarum Regem, &amp; Miniſtrum
+<pb n="23" facs="tcp:187954:13"/> Generalem fratrum Minorum, Obſervantiae S. Franciſci.</p>
+                  <p>Omnes vero &amp; ſingulas jam dictas indulgentias Sacra Congregatio partim eſſe confictas, &amp; plane falſas declarat, partim apocryphas, vel ex alio capite nullas, quae nemini ſuffragari poſſunt: Eaſ<g ref="char:EOLhyphen"/>que in futurum ullo in loco ut veras publicari, &amp; lucrandas Chriſti fidelibus proponi vetat: Folia<g ref="char:EOLhyphen"/>que &amp; libros, ubi ſic proponuntur &amp; afferuntur, omnino praecipit aboleri; niſi praedictae indulgentiae fuerint diligenter expunctae. Nec ideo tamen vult alias, quas hoc decretum non continet, pro veris &amp; legitimis, tacitéque probatis, haberi.</p>
+                  <p>Ac demum omnes indulgentias conceſſas ante de<g ref="char:EOLhyphen"/>cretum Clementis <hi>VIII.</hi> latum die <hi>IX</hi> Januarii <hi>M.D.XCVII.</hi> Coronis, Roſariis, granis ſeu calcu<g ref="char:EOLhyphen"/>lis, Crucibus &amp; Imaginibus Sacris.</p>
+                  <p>Vel ante Breve Pauli <hi>V.</hi> quod incipit: <hi>Romanus Pontifex,</hi> &amp;c. editum <hi>XXIII</hi> Maij, An. <hi>M.DC.VI.</hi> perſonis Regularibus quarumcun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Religionum &amp; Ordinum, etiam Mendicantium.</p>
+                  <p>Vel <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nte Conſtitutionem <hi>CXV</hi> Clementis <hi>VIII.</hi> cujus initium: <hi>Quaecumque</hi> &amp;c. &amp; <hi>LXVIII</hi> Pauli <hi>V.</hi> incipientem <hi>Quae Salubriter,</hi> &amp;c. habi<g ref="char:EOLhyphen"/>tas
+<pb n="25" facs="tcp:187954:14"/> per aggregationem, vel aliam communicatio<g ref="char:EOLhyphen"/>nem ab Archiconfraternitate nullâ, Ordine, Con<g ref="char:EOLhyphen"/>gregacione, Societate etiam Jeſu, Capitulo, vel Coetu quocunque; vel ab eorum Officialibus, Su<g ref="char:EOLhyphen"/>perioribus, aliiſque perſonis, vel perſonâ; etiamſi earum vel ejus mentio ſpecialis &amp; individua fa<g ref="char:EOLhyphen"/>cienda eſset; niſi fuerint deinde Romani Pontificis auctoritate innovatae aut confirmatae, nullius eſſe ro<g ref="char:EOLhyphen"/>boris &amp; momenti pariter declarat.</p>
+                  <p>Porro Summaria Indulgentiarum pro Congre<g ref="char:EOLhyphen"/>gationibus Doctrinae Christianae, Confraternita<g ref="char:EOLhyphen"/>tibus, Sanctiſſimae Trinitatis &amp; Redemptionis Captivorum, Nominis Dei, Roſarii, B. Mariae de Mercede, &amp; Redemptionis Captivorum, B. Mariae de Monte Carmelo, Cincturae S<hi rend="sup">t</hi> Au<g ref="char:EOLhyphen"/>gustini &amp; Monicae; niſi ab eadem Congregatio<g ref="char:EOLhyphen"/>ne recognitae, non permittuntur.</p>
+                  <p>Indulgentias vero Stationum <g ref="char:V">Ʋ</g>rbis quae a Ro<g ref="char:EOLhyphen"/>manis Pontificibus ſingulari quodam beneficio, vel communicatae ſunt, vel communicabuntur inter<g ref="char:EOLhyphen"/>dum aliquibus locis, Ordinibus, aut Perſonis, diebus tantum Stationum in Miſſali Romano de<g ref="char:EOLhyphen"/>ſcriptis, ſuffragari poſſe declarat.</p>
+                  <p>Semel autem duntaxat in die Plenariam Indul<g ref="char:EOLhyphen"/>gentiam in certos dies Eccleſiam viſitantibus, con<g ref="char:EOLhyphen"/>ceſſam, vel aliud pium opus per agentibus lucrifie<g ref="char:EOLhyphen"/>ri.</p>
+                  <pb n="27" facs="tcp:187954:15"/>
+                  <p>De quibus relatione facta per Secretarium ad Sanctiſſimum, cuncta Sanctitas ſua probavit, &amp; inviolatè ſerv ari juſſit.</p>
+                  <closer>
+                     <dateline>Datum Romae,
+<date>die <hi>VII.</hi> Martii <hi>M.DC.LXXVIII.</hi>
+                        </date>
+                     </dateline>
+                     <signed>Aloyſius Card. Homo-Deus.</signed>
+                  </closer>
+                  <postscript>
+                     <p>Locus † Sigilli</p>
+                     <p>Michael Angelus Riccius Secretarius.</p>
+                     <closer>
+                        <dateline>
+                           <date>Die <hi>XII</hi> Menſis Martii <hi>M.DC.LXXVIII.</hi>
+                           </date> ſupradi<g ref="char:EOLhyphen"/>dictum Decretum affixum &amp; publicatum fuit ad <g ref="char:V">Ʋ</g>alvas Curiae, &amp; in acie Campi Florae; ac aliis locis ſolitis Urbis, per me Rochum de Ste<g ref="char:EOLhyphen"/>phanis Sanctiſſimi D. N. Papae Curſ.</dateline>
+                        <signed>Laurentius Segnus Magiſter Curſor.</signed>
+                     </closer>
+                  </postscript>
+               </div>
+               <div type="rules">
+                  <pb n="29" facs="tcp:187954:16"/>
+                  <p>A Curata rerum inquiſitio, perſaepè ea quoque quae recta judicata ſunt, exactiori examine ve<g ref="char:EOLhyphen"/>ritatis adhibito, longè aliter ſe habere oſtendit. <bibl>
+                        <hi>S. Juſtinus Orat. 1. ad Graecos.</hi>
+                     </bibl>
+                  </p>
+                  <p>Nihil erubeſcit veritas niſi ſolummodo abſcondi. <hi>Tertullianus l. contra Valentianinos.</hi>
+                  </p>
+                  <p>Quid quaeſo nos oportuit facere? an non quod Eccleſiaſtici Canonis eſt? ...... Par autem eſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut quae contra Canonem acta ſunt, emendationem ac<g ref="char:EOLhyphen"/>cipiant. <hi>Julius 1 Epiſt. ad Orientales apud A<g ref="char:EOLhyphen"/>thanaſium in Apologia 11.</hi>
+                  </p>
+                  <p>Turpe autem nimis &amp; pernicioſum, ac maxi<g ref="char:EOLhyphen"/>mè cavendum, ut Chriſtianum, de his rebus qua<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ſecundum Chriſtianas literas loquentem, ita de<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>irare quilibet infidelis audiat, ut, quemadmodum <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>icitur, toto coelo errare conſpiciens riſum tenere vix <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oſſit. Et non tam moleſtum eſt quod errans homo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eridetur: ſed quod Auctores noſtri, ab eis qui
+<pb n="31" facs="tcp:187954:17"/> foris ſunt, talia ſenſiſſe credentur ...... Quid e<g ref="char:EOLhyphen"/>nim moleſtiae triſtitiaeque ingerant prudentibus fra<g ref="char:EOLhyphen"/>tribus temerarii praeſumptores, ſatis dici non poteſt. <hi>S. Auguſtinus lib. de Gen. ad literam c. XIX.</hi>
+                  </p>
+                  <p>Multorum enim Preces emendantur quotidie, ſi doctioribus fuerint recitatae; &amp; multa in eis re<g ref="char:EOLhyphen"/>periuntur contra Catholicam veritatem. <hi>Idem</hi> l. <hi>VI. de Baptiſmo contra Donatiſtas c. XXV, &amp; apud Gratian c.) Si non Sanctificatur, diſt. IV. de Conſecrat.</hi>
+                  </p>
+                  <p>Veritas omnibus artibus &amp; diſciplinis ornamen<g ref="char:EOLhyphen"/>tum affert, quae ſi abſit, omni ornatu &amp; elegantiâ carent. <hi>Iſidorus Peluſiota Epiſtolarum libro</hi> II <hi>Epiſt. LXIV.</hi>
+                  </p>
+                  <p>Quid illic ſpei eſt, ubi Magiſtris tacentibus, hi loquuntur, qui, ſi ita eſt, eorum diſcipuli non fuerunt? Timeo ne connivere ſit hoc tacere, Timeo ne magis ipſi loquantur, que permittunt illis taliter loqui. In talibus cauſis non caret ſuſpicione taciturnitas, quia occurreret veritas, ſi falſitas diſpliceret: me<g ref="char:EOLhyphen"/>rito namque nos cauſa reſpicit, ſi ſilentio favamus errori. Ergo corripiantur hujuſmodi; non ſit his
+<pb n="33" facs="tcp:187954:18"/> liberum habere pro voluntate ſermonem. <hi>Coele<g ref="char:EOLhyphen"/>ſtinus I Epiſt: ad Galliarum Epiſcopos.</hi>
+                  </p>
+                  <p>Qui recipere pauca faſtidit, non virtute, ſed mole rem conjicit. <hi>S. Avitus Viennenſis E<g ref="char:EOLhyphen"/>piſcopus Epiſt. II. ad Gundabaldum Regem.</hi>
+                  </p>
+                  <p>Origo ſaeviſſimi erroris eſt, in ſuſpectis authori<g ref="char:EOLhyphen"/>bus amare totum, &amp; ſine judicio defendere velle quod invenis. <hi>M. Aurel. Caſſiodorus Senator. l. de Divinis Lectionibus. c. XXIV.</hi>
+                  </p>
+                  <p>Post Deum veritas colenda eſt, quae ſola homines Deo proximos facit: <hi>Martinus Dumienſis aliàs Bracarenſis. l. De moribus.</hi>
+                  </p>
+                  <p>Sancta quoque Univerſalia Concilia, Nicaenum, Conſtantinopolitanum, Epheſinum primum, Calce<g ref="char:EOLhyphen"/>donenſe, &amp; ſecundum Conſtantinopolitanum, quod Juſtiniani piae memoriae Principis temporibus cele<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ratum eſt, uſque ad unum apicem immutilata ſer<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>are ...... Si qua vero emerſerint contra diſ<g ref="char:EOLhyphen"/>iplinam Canonicam, emendare, <hi>Romanae Eccle<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iae Diurnum, in fidei profeſſione, quam olim ecens creatus, vel electus Pontifex emitte<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>at.</hi>
+                  </p>
+                  <p>Nonnulli enim ſe Deo deferre exiſtimant, ſi ad deferenda laudis ejus inſignia, falſitatis Argumen<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a componant; qui nimirum, ſi egregii Praedicato<g ref="char:EOLhyphen"/>ris
+<pb n="35" facs="tcp:187954:19"/> verba diligenter attenderent, talia non ſentir ent. Ait enim Corinthiis; <hi>Si Chriſtus non ſurrexit, inanis eſt ergo praedicatio noſtra, vana eſt fides noſtra: invenimur autem &amp; falſi teſtes Dei &amp;c.</hi> ....... Secundum haec ergo Apoſtolica ver<g ref="char:EOLhyphen"/>ba, Falſus teſtis meritò dicitur, qui indiſcretè e<g ref="char:EOLhyphen"/>um cupiens laudare mentitur: &amp; adverſus Deum proculdubio perhibet teſtimonium, quiſquis in ejus laude perverſâ molitur arte commentum. <hi>Petrus Damiani S.R.E. Cardinalis in praefatione vitae S. Mauri Coeſenatis Epiſcopi, &amp; in prologo vitae S. Romualdi.</hi>
+                  </p>
+                  <p>Sicut ad officium noſtrum pertinet, quae incon<g ref="char:EOLhyphen"/>grua ſunt prohibere; ita nobis potiſſimum conve<g ref="char:EOLhyphen"/>nit, quae recta ſunt, ſtabilire, &amp; ſtabilita Apoſto<g ref="char:EOLhyphen"/>licae firmitatis praeſidio roborare. <hi>Alexander III. Epiſtolâ Ad Stephanum Meldenſem Epiſco<g ref="char:EOLhyphen"/>pum.</hi>
+                  </p>
+                  <p>Sicut ea quae a Praedeceſſoribus noſtris providâ fuerunt deliberatione ſtatutâ, nullatenus irritari polumus, vel infringi; ſic, ea quae ab eis ſunt per obreptionem obtenta in honeſtatis Eccleſiaſticae de<g ref="char:EOLhyphen"/>trimentum corrigi volumus, &amp; in statum redigi meliorem. <hi>Innocentius III, l. 1. Epiſt. ad Cantu<g ref="char:EOLhyphen"/>arienſem &amp; alios Epiſcopos.</hi>
+                  </p>
+                  <p>Quia igitur falſitas tolerari non debet ſub ve<g ref="char:EOLhyphen"/>lamine pietatis, Diſcretioni veſtrae per Apoſtolica Scripta mandamus, quatenus memoratos Abbatem &amp; Monachos, ut ab ejuſmodi praeſumptione deſiſtant, authoritate noſtrâ moneatis ..... Cùm nec ſaluti nec famae congruat eorundem, quaeſtum acquirere
+<pb n="37" facs="tcp:187954:20"/> de praedicatione mendacii...... Pontificatûs noſtri Ann. <hi>XV. Idem. l. III. Epiſt. X. ad Abbatem &amp; Priorem S. Victoris.</hi>
+                  </p>
+                  <p>Reſpicit iſte gradus (Sextus) Legendas &amp; Mi<g ref="char:EOLhyphen"/>racula Sanctorum, Vitas Patrum, Viſiones devota<g ref="char:EOLhyphen"/>rum perſonarum, recitationes &amp; opiniones Sacro<g ref="char:EOLhyphen"/>rum Doctorum. Quae omnia ſuſcipit Eccleſia; non quòd determinet talia de neceſſitate ſalutis eſſe cre<g ref="char:EOLhyphen"/>denda, ſed quia proficiunt ad commovendos affectus pios fidelium, &amp; in aedificationibus: Dum in talibus nihil de certitudine ſcitur eſſe falſum. <hi>Joan. Gerſo Cancellarius Pariſ. in declaratione veritatum quae credendae ſunt de neceſſitate ſalutis.</hi>
+                  </p>
+                  <p>Quae in Eccleſiâ Dei incommoda inferunt, noſtrâ nos expedit animadverſione removere. <hi>Nicolaus V. in Conſtitutione edita circa collationem Sacer<g ref="char:EOLhyphen"/>dotiorum in Germania.</hi>
+                  </p>
+                  <p>In thecis adhuc grana conſiſtunt: non poteſt Ro<g ref="char:EOLhyphen"/>manus Praeſul introſpicere, nec rimari hominum cor<g ref="char:EOLhyphen"/>da. <hi>Pravum eſt cor hominis, &amp; inſcrutabile, quis cognoſcit illud? Ego Dominus ſcrutans corda &amp; renes probans.</hi> Dei ſolius ea poteſtas eſt. ...... Mille ſunt in homine latebrae, mille fal<g ref="char:EOLhyphen"/>lendi artes, mille nocendi aſtutiae: aliud in corde, aliud in ore gerit: pauci ſancti, &amp; digni, quos opti<g ref="char:EOLhyphen"/>me amet Deus, quos avaritiae non agunt stimuli; ſed maxima pars hominum ficta, fucataque eſt,
+<pb n="39" facs="tcp:187954:21"/> plures videri boni, quam eſſe volunt; ſub ovina pelle ſaepe lupinum offendes animum. Nihil igitur miri eſt, ſi Romani Pontificis aliquando providen<g ref="char:EOLhyphen"/>tia fallitur, &amp; beneficia pecuniis extorquentur. <hi>Ae<g ref="char:EOLhyphen"/>neas Sylvius Cardinalis Senenſis, qui &amp; poſteà Pius 11. Epiſt. ad Martinum Meyerum Archie<g ref="char:EOLhyphen"/>piſcopi Moguntini Cancellarium.</hi>
+                  </p>
+                  <p>Attendendum quoque ne falſorum miraculorum <hi>(falſaru<g ref="char:cmbAbbrStroke">̄</g> Indulgentiarum)</hi> praetextu veris miracu<g ref="char:EOLhyphen"/>lis <hi>(Indulgentiis)</hi> detrahatur. <hi>Facultas Theolo<g ref="char:EOLhyphen"/>giae Pariſienſis in reſponſione ad conſultationem de reditu animarum poſt mortem. An. M.D.XXXIV, die XXII Januarii.</hi>
+                  </p>
+                  <p>Sacro-Sancta Synodus indulgentiarum uſum Chriſtiano populo maximè ſalutarem, &amp; Sacro<g ref="char:EOLhyphen"/>rum Conciliorum authoritate probatum, in Eccleſia retinendum eſſe docet &amp; praecipit: eoſque Anathe<g ref="char:EOLhyphen"/>mate damnat, qui aut inutiles eſſe aſſerunt, vel eas concedendi in Eccleſia poteſtatem eſſe negant. In his tamen concedendis moderationem juxta veterem &amp; probatam in Eccleſia conſuetudinem adhiberi cupit, ne nimiâ facilitate Eccleſiaſtica diſciplina enervetur. Abuſus vero, qui in his irrepſerunt, &amp; quorum occaſione inſigne hoc Indulgentiarum nomen ab Haereticis blaſphematur, emendatos &amp; correctos cupiens, praeſenti decreto generaliter ſtatuit, pravos
+<pb n="41" facs="tcp:187954:22"/> quaeſtus omnes pro his conſequendis, unde plurima in Chriſtiano populo abuſuum cauſa fluxit, omni<g ref="char:EOLhyphen"/>no abolendos eſſe: Caeteros verò qui ex ſuperſtitione, ignorantiâ, irreverentiâ, aut aliunde quomodocun<g ref="char:EOLhyphen"/>que provenerunt; cùm ob multiplices locorum &amp; provinciarum, apud quas hi committuntur, cor<g ref="char:EOLhyphen"/>ruptelas commodé nequeant ſpecialiter prohiberi; mandat omnibus Epiſcopis, ut diligenter quiſque hujusmodi abuſus Eccleſiae ſuae colligat; eoſque in prima Synodo provinciali referat, ut aliorum quoque Epiſcoporum ſententia cogniti, ſtatim ad Summum Romanum Pontificem deferantur; cujus authorita<g ref="char:EOLhyphen"/>te, &amp; prudentiâ, quod Univerſali Eccleſiae expedi<g ref="char:EOLhyphen"/>et, ſtatuatur; ut ita Sanctarum Indulgentiarum mu<g ref="char:EOLhyphen"/>nus piè, ſanctè &amp; incorruptè omnibus fidelibus diſ<g ref="char:EOLhyphen"/>penſetur. <hi>Tridentinum Concilium Seſs. XXV. in Decreto de Indulgentiis.</hi>
+                  </p>
+                  <p>Dolenter hoc dico potiùs, quam contumeliosè, multò à Laertio ſeverius vitas Philoſophorum ſcriptas, quam à Chriſtianis vitas Sanctorum; lon<g ref="char:EOLhyphen"/>géque incorruptius, &amp; integrius Suetonium res Cae<g ref="char:EOLhyphen"/>ſarum expoſuiſſe, quàm expoſuerint Catholici, non dico res Imperatorum, ſed Martyrum, Virginum,
+<pb n="43" facs="tcp:187954:23"/> &amp; Confeſſorum. ...... Nominibus parco. Cer<g ref="char:EOLhyphen"/>tum eſt autem; qui fictè &amp; fallaciter Hiſtori<g ref="char:EOLhyphen"/>am Eccleſiaſticam ſcribentes, eos viros bonos atque ſincer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s eſſe non poſſe, totamque eorum nar<g ref="char:EOLhyphen"/>rationem inventam eſſe, aut ad quaeſtum, aut ad er<g ref="char:EOLhyphen"/>rorem; quorum alterum foedum eſt, alterum per<g ref="char:EOLhyphen"/>nicioſum ..... Quamobrem qui falſis atque mendacibus ſcriptis mentes mortalium concitare ad Divorum cultum voluere, hinc mihi nihil aliud vi<g ref="char:EOLhyphen"/>dentur egiſſe, quàm ut veris propter falſa adima<g ref="char:EOLhyphen"/>tur fides; &amp; quae ſeverè ab autoribus planè vera<g ref="char:EOLhyphen"/>cibus edita ſunt, ea etiam revocentur in dubium. ..... Quaſi vero ſancti Dei homines noſtris men<g ref="char:EOLhyphen"/>daciis egeant, qui tam multa vera pro Chriſto geſſe<g ref="char:EOLhyphen"/>runt. <g ref="char:V">Ʋ</g>t falſa quantumvis licet eruditae ſimulati onis artificio compoſita, ut noxia non ſint; quoniam inutilia ſunt ta men, tanquam ignavi milites, one<g ref="char:EOLhyphen"/>ri ſint magis quam auxilio ..... Eccleſiae igitur Chriſti vehementer incommodant, qui res Divo<g ref="char:EOLhyphen"/>rum praeclarè geſtas, non ſe putant egregiè expoſitu<g ref="char:EOLhyphen"/>ros, niſi eas fictis &amp; revelationibus, &amp; miraculis adornarint. <hi>Melchior Canus, qui Concilio Tri<g ref="char:EOLhyphen"/>dentino interfuit, lib. XI. de locis C. VI.</hi>
+                  </p>
+                  <pb n="45" facs="tcp:187954:24"/>
+                  <p>Mentra egli faceva la viſita de Liano in quella riviera inteſe, come appreſſo la Chieſa di detto luogo, era un' arca di pietra con dentro alcune oſſa tenute in molta veneratione, come vere reliquie de' Santi, eſſendovi publica fama che la notte precedente alla Feſta di S. Pietro in Vincola Uſciſſe miracoloſa<g ref="char:EOLhyphen"/>mente tanta copia d'acqua da quel oſſa, che ſe n' empiva tutta l'arca; è Benche concoreſsero le vi<g ref="char:EOLhyphen"/>cine terre, in quel giorno à pigliar di tal acqua, che ſi teneva per coſa miraculoſa, e ſanta, non ſcemava Però mai reſtandone ſempre l'arca piena ..... Jl Cardinale che teneva le reliquie de Santi in ſomma veneratione e doue ne ritrovava tutte, le voleva ve<g ref="char:EOLhyphen"/>dere è ricanoſcere, metterle in ſtima grande ap<g ref="char:EOLhyphen"/>preſſo i popoli, donde venno il proverbio, <hi>Che il Cardinal Borromeo non laſciava ripoſare ne i vi<g ref="char:EOLhyphen"/>vi ne i morti,</hi> Volle viſitare qu'eſt' oſsa; è in veſtigan<g ref="char:EOLhyphen"/>do la loro origine, non trovò coſa alcuna di certo<g ref="char:punc">▪</g> Onde commincitò dubitare di qualche inganno dia<g ref="char:EOLhyphen"/>bolico; è per ſicurarſi delle verità, fece aſciurgare beniſſimo l'arca el' oſſa inſieme, e poi la fece cuſto<g ref="char:EOLhyphen"/>dire dà tré ſacerdoti fedeli la notte iſteſſa, che l'ac<g ref="char:EOLhyphen"/>qua ſoleva ſcaturire: e non apparendo mai ſegno
+<pb n="47" facs="tcp:187954:25"/> alcuno d'acqua, ſcoper ſe che ciò veniva fatto con<g ref="char:EOLunhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rtificio e inganno. E per provedere a un tanto diſ<g ref="char:EOLhyphen"/>ordine, commandò che foſſe ſepulta ſotto terra la caſa e l'oſſa ancora, acciò il popolo ingannato non le adoraſſe piu falſamente. Coſa che recò in quelle parti grande ammiratione predicando poi quei popo<g ref="char:EOLhyphen"/>li il Cardinale per huomo Santiſſimo, il quale ha<g ref="char:EOLhyphen"/>veſſe le ſpirito di Dio con lui. <hi>Joannes Petrus Iſ<g ref="char:EOLhyphen"/>ſuanus Mediolanenſis Presbyter. lib. VI de Vita S. Caroli. Cap. VII. Quod factum contigit, An. M.D.LXXX.</hi>
+                  </p>
+                  <p>Volumus Epiſcopos curare propria Breviaria, quàm fieri poterit certiſſimè &amp; accuratiſſimè e<g ref="char:EOLhyphen"/>mendari; lectioneſque inſertas peritorum induſtriâ, ad hiſtoriae veritatem, ex antiquorum probato<g ref="char:EOLhyphen"/>rumque auctorum ſcriptis &amp; monumentis refor<g ref="char:EOLhyphen"/>mari. <hi>Turonenſe Concilium provinciale. C.XV. de Parcoeis &amp; Presbyteris.</hi>
+                  </p>
+                  <p>Honor &amp; Virtus Gentilium numina gemellas aedes junctim locatas habebant; ad honoris non niſi per virtutis januam patuit aditus: apud Chriſtia<g ref="char:EOLhyphen"/>nos, quibus omnis interdicitur <hi>Etelotreſceia.</hi> Ve<g ref="char:EOLhyphen"/>itas &amp; pietas nec diſſociari debent, nec poſsunt. A<g ref="char:EOLhyphen"/>pud eos ſolos, veritati pietas ſuperſtruitur ⸫⸪ Ergo jungenda Veritati aut à falſitate ſecernenda Pietas.
+<pb n="49" facs="tcp:187954:26"/> 
+                     <hi>Joannes Launoius Pariſienſis Theologus E<g ref="char:EOLhyphen"/>piſt. ad Franciſcum Barberinum S. R. E. Car<g ref="char:EOLhyphen"/>dinalem praefixa operi cui titulus eſt, De Simo<g ref="char:EOLhyphen"/>nis Stochi viſo. de Sabbathinae Bullae privile<g ref="char:EOLhyphen"/>gio, &amp;c.</hi>
+                  </p>
+                  <p>Spuria Bulla, quae vulgò dicitur, Sabbathina; viſum Simonis Stochii <hi>XIII.</hi> Seculi figmentum eſt. Laudamus S. Martini factum, qui ab erecta uni alicui latroni aera ſe abſtinuit, illamque poſt<g ref="char:EOLhyphen"/>modum ſummovit: Pari laude ſuffragamur eis, qui ad emendanda Sanctorum officia incumbunt; atque vehementer peccare aſserimus omnes, qui<g ref="char:EOLhyphen"/>cunque in Eccleſiaſticos libros commenta inferunt, vel impediunt ne illata tollantur. <hi>Theſes Theo- M.DC.LXXIV. in Sorb. pro actu Veſper. III. &amp; gicae Claudii Bloïni, Preſbyteri Pariſiui, &amp; Sacrae Facul. Pariſ. Licentiati die XXIV Octob. An. IV Columna.</hi>
+                  </p>
+                  <p>Spuria eſt Bulla, quae vulgo dicitur Sabbathina; indigna quippe quae a Pontifice R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mano emanaverit. <hi>Theſes Theologicae Natalis Vareti, Preſbyteri Pariſini, &amp; Sacrae Facult. Pariſ. Licentiati, Socii Navarrici, die XXIII. Aug. An. M.DC.LXXVII. in Regia Navarra, pro actu Veſper. IV. Co<g ref="char:EOLhyphen"/>lumna.</hi>
+                  </p>
+                  <p>Multae tribuuntur Romanis Pontificibus Conſti<g ref="char:EOLhyphen"/>tutiones, quae ab iis non emanrunt ⸫⸪ Bulla quo<g ref="char:EOLhyphen"/>que quae vulgo dicitur Sabbathina ſuppoſititius vi<g ref="char:EOLhyphen"/>detur mihi Joannis <hi>XXII.</hi> partus: Quid enim
+<pb n="51" facs="tcp:187954:27"/> magis ridiculum &amp; Romano Pontifice magis indig<g ref="char:EOLhyphen"/>num, quam aſſerere <q>B. Virginem polliceri ali<g ref="char:EOLhyphen"/>quem fore Vicarium Christi in terris, ſi confir<g ref="char:EOLhyphen"/>mationem Ordinis Carmelitarum concedat; Sa<g ref="char:EOLhyphen"/>lutem aeternam conſecaturum, quicunque Carme<g ref="char:EOLhyphen"/>lita fiet, &amp; Sanctum ordinem intrabit; B. Vir<g ref="char:EOLhyphen"/>ginem Sabbatho primo poſt obitum Confratrum, &amp; Conſororum Ordinis Carmelitarum deſcenſu<g ref="char:EOLhyphen"/>ram in Purgatorium, &amp; inde quot quot inveniet liberaturam, ut eos in montem vitae aeternae redu<g ref="char:EOLhyphen"/>cat.</q> Has &amp; ſimiles ineptias apagè à Catholicae, &amp; Romanae Religionis &amp; fidei veris cultoribus. <hi>Theſes Theologicae Natalis de Bretigneres, Presbyteri Vernolaei, Sac. facultat. Paris. Li<g ref="char:EOLhyphen"/>cent. Theologi, die XIII. Sept. An. M.DC.LXXVII. in Scholis Doctoris Angelici, pro actu Veſper. v. Columna.</hi>
+                  </p>
+               </div>
+            </body>
+         </text>
+      </group>
+      <back>
+         <div type="note">
+            <pb n="52" facs="tcp:187954:28"/>
+            <head>Advertiſement.</head>
+            <p>IT hath been thought adviſable, with the Two Decres above-printed, to adde the Rules and Paſſages ſubjoyned to them; that it may appe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r with what ſpirit our holy Father the Pope, and their Eminencies the Cardinals have applyed themſelves to the making theſe De<g ref="char:EOLhyphen"/>crees; and the obligation incumbent on other Chriſtians in this as in all other things to com<g ref="char:EOLhyphen"/>ply with their good intentions, and conform themſelves thereunto. It is not to be denyed, that there be a great many people who do not think the matter in hand to be a matter of ſo great conſequence; nor that it is ſo dangerous a thing to be miſtaken in theſe affaires, when there is (as the people phraſe it) a good mean<g ref="char:EOLhyphen"/>ing. But the Prelats and Paſtors of the Church are not of that opinion: and do very well know that it is a thing of great importance, not to ſuffer what is ſuſpicious and frivolous in Religi<g ref="char:EOLhyphen"/>ous
+<pb n="53" facs="tcp:187954:28"/> exerciſes. This they indeavour to make evi<g ref="char:EOLhyphen"/>dent by the Rules adjoyned; wherein they think there is nothing contained but what may ſerve for publick edification. Having therein no other deſign, but to ſhew the difference that ought to be made between thoſe Indulgences and Pray<g ref="char:EOLhyphen"/>ers which be True, and thoſe which be Falſ and Apocryphal. And indeed, in ſuch things as theſe, we are not ſo much to look upon the great num<g ref="char:EOLhyphen"/>ber, as the worth of them: 'Tis with Truth, as with excellent Wine; it is not to be drunk with the dregs in it.</p>
+            <p>
+               <hi>Contemnendus Pincerna eſt, qui dum Vini copia jactat, foecem quoque punienda temeritate propinat.</hi> Petrus Damiani, Praefat, Vitae S. Mauri Caeſen. Epiſcopi.</p>
+            <p>
+               <hi>The Drawer is not to be excuſed, who to make his Wine ſeem the more, doth (very unhandſomely) fill out the dregs with it.</hi> Peter Damian, in his Preface to the Life of S. Maure, Biſhop of Ce<g ref="char:EOLhyphen"/>ſene.</p>
+         </div>
+         <div type="note">
+            <pb n="54" facs="tcp:187954:29"/>
+            <head>Thus far, the <hi>French</hi> Copy.</head>
+            <p>In ſome places of the Engliſh Tranſlation, where we may ſeem to vary from the Latine (in the phraſe, not in the ſenſe,) we have therein followed the French, who have taken a greater liberty in paraphraſing the Latine, than we have done.</p>
+         </div>
+         <div xml:lang="eng" type="hymn">
+            <pb n="55" facs="tcp:187954:29"/>
+            <argument>
+               <p>TO filll up the vacant Pages, I have thought fit to add, (as a ſpecimen of ſuch things as are here prohibited,) the <hi>Hymn,</hi> commonly called <hi>Te Deum,</hi> as I find it perverted and by them ap<g ref="char:EOLhyphen"/>plyed to the Virgin <hi>Mary.</hi> Whence we may ſee, with what boldneſs they apply to her, this moſt ſolemn Hymn deſigned for the praiſe of God himſelf.</p>
+               <p>A Copy of this, thus perverted, I find Print<g ref="char:EOLhyphen"/>ed, in a ſtately manner, in the cloſe of a Book written by <hi>Melchior Inchofer,</hi> a Jeſuite, in Juſti<g ref="char:EOLhyphen"/>fication of a Letter pretended to be ſent by the Virgin <hi>Mary</hi> to the City of <hi>Meſſina.</hi>
+               </p>
+               <p>Two of which Books (intituled as hereafter followeth) are extant in the Bodleyan Library; at <hi>C.</hi> 4.14. <hi>Jur.</hi> and <hi>Seld. Theol. O.</hi> 1. 1.</p>
+               <p>This Hymn (ſo perverted) I take to be the ſame, (or not much differing from it,) with that which is here ſaid to have been recommended by Pope <hi>Paul,</hi> V. with Indulgences granted to thoſe who ſing it, or hear it ſung: which (a<g ref="char:EOLhyphen"/>mongſt others) are deſervedly condemned by this Decree.</p>
+            </argument>
+            <head>
+               <pb n="56" facs="tcp:187954:30"/>An Epiſtle written by the Bleſsed Virgin <hi>Mary</hi> to the <hi>Meſſeneſes,</hi> aſſerted to be True, &amp;c. By <hi>P. Melchior Inchofer</hi> (of Austria) one of the Society of Jeſus; Printed at <hi>Meſſina</hi> by <hi>Peter Bree,</hi> at the charge of <hi>Joſeph Materoſe,</hi> in the year <hi>1629.</hi> Pag. <hi>405</hi>
+            </head>
+            <l>WE praiſe thee, O <hi>MARY:</hi> we acknow<g ref="char:EOLhyphen"/>ledge thee to be the Lady.</l>
+            <l>All the earth doth worſhip thee: the Mother of the everlaſting God.</l>
+            <l>To thee all Angels cry aloud: the Heavens and all the Powers therein.</l>
+            <l>To thee Cherubins and Seraphims: continu<g ref="char:EOLhyphen"/>ally do cry,</l>
+            <l>Holy, Venerable, Wonderful: Mother of the Lord God of Sabaoth.</l>
+            <l>Heaven and Earth are full: of the fruitfulneſs of thy Virginity.</l>
+            <l>The glorious Company of the Apoſtles: praiſe thee.</l>
+            <l>The goodly number of the Prophets: praiſe thee.</l>
+            <l>The noble army of Martyrs: praiſe thee.</l>
+            <l>The Holy Church throughout the world: doth acknowledge thee.</l>
+            <l>The Mother: of infinite Majeſty;</l>
+            <l>Thine honourable, true: &amp; onely Son,</l>
+            <l>Conceived by the Holy Ghoſt; the Com<g ref="char:EOLhyphen"/>forter.</l>
+            <pb n="58" facs="tcp:187954:31"/>
+            <l>Thou art the Queen of glory: O MARY.</l>
+            <l>Thou art the true Mother: of the Son of the everlaſting Father.</l>
+            <l>When he took upon him to deliver man: thou didſt afford him thy Virgin Womb.</l>
+            <l>Thy ſeed having overcome the ſharpneſs of death: the kingdome of heaven is open to all believers.</l>
+            <l>Thou ſitteſt at the right hand of thy Son: in the glory of the Mother.</l>
+            <l>We believe that thou ſhalt come: with thy Son the Judge.</l>
+            <l>We therefore pray thee, help thy ſervants: whom thy Son hath redeemed with the pretious blood he had from thee.</l>
+            <l>Make them to be numbered with thy Saints: in the glory of God.</l>
+            <l>O <hi>Lady,</hi> ſave thy people: and bleſs thy Sons inheritance.</l>
+            <l>Day by day: we magnify thee.</l>
+            <l>And we worſhip thy name: ever world with<g ref="char:EOLhyphen"/>out end.</l>
+            <l>Vouchſafe, O <hi>Lady:</hi> to keep us this day with<g ref="char:EOLhyphen"/>out ſin.</l>
+            <l>O <hi>Lady</hi> have mercy upon us: have mercy up<g ref="char:EOLhyphen"/>on us.</l>
+            <l>O <hi>Lady,</hi> let thy mercy lighten upon us: as our truſt is in thee.</l>
+            <l>O MARY, after God, in thee have I truſted: let me never be confounded.</l>
+         </div>
+         <div xml:lang="lat" type="hymn">
+            <pb n="57" facs="tcp:187954:30"/>
+            <head>Epiſtolae B, Virginis <hi>Mariae</hi> ad Meſ<g ref="char:EOLhyphen"/>ſanenſes veritas vindicata, &amp;c. Authore P. Melchiore Inchofer Auſ<g ref="char:EOLhyphen"/>triaco è Soc. Jeſu. Meſſanae ex Typo<g ref="char:EOLhyphen"/>graphia Petri Breae, ſumptibus Joſe<g ref="char:EOLhyphen"/>phi Materoſi. Anno ſalutis M.DC.XXIX. Pag. 405.</head>
+            <l>TE <hi>MARIAM</hi> laudamus: te Dominam confi<g ref="char:EOLhyphen"/>temur.</l>
+            <l>Te aeterni Dei Matrem: omnis terra veneratur.</l>
+            <l>Tibi omnes Angeli: tibi Coeli &amp; univerſae Po<g ref="char:EOLhyphen"/>testates;</l>
+            <l>Tibi Cherubim &amp; Seraphim: inceſſabili voce proclamant.</l>
+            <l>Sancta, Venerabilis, Admirabilis: Mater Domini Dei Sabaoth.</l>
+            <l>Pleni ſunt Coeli &amp; Terra: foecunditatis <g ref="char:V">Ʋ</g>irgi<g ref="char:EOLhyphen"/>tatis tuae.</l>
+            <l>Te glorioſus Apoſtolorum Chorus,</l>
+            <l>Te Prophetarum laudabilis numerus,</l>
+            <l>Te Martyrum candidatus honorat exercitus.</l>
+            <l>Te per Orbem terrarum Sancta confitetur Eccle<g ref="char:EOLhyphen"/>ſia.</l>
+            <l>
+               <hi>MATREM</hi> immenſae Majeſtatis.</l>
+            <l>Venerandum tuum, verum, &amp; unicum Filium;</l>
+            <l>Ex Sancto conceptum paracleto Spiritu.</l>
+            <pb n="59" facs="tcp:187954:31"/>
+            <l>Tu Regina Gloriae <hi>MARIA.</hi>
+            </l>
+            <l>Tu Patris Sempiterni Filii: es vera genetrix;</l>
+            <l>Cui ad liber andum ſuſcepturo hominem: exhi<g ref="char:EOLhyphen"/>buiſti Virgineum uterum.</l>
+            <l>Per ſemen tuum devicto mortis aculeo, aperta ſunt credentibus Regna Coelorum.</l>
+            <l>Tu ad dexter am Filii ſedes: in gloria Matris.</l>
+            <l>Cum Filio Judice crederis apparitura.</l>
+            <l>Te ergo quaeſumus, tuis devotis ſubveni: quos Filius tuus pretioſo Sanguine ex te ſuſcepto redemit.</l>
+            <l>Aeterna fac cum Sanctis Dei gloria numerari.</l>
+            <l>Salvum fac populum tuum Domina: &amp; benedic haereditati Filii tui.</l>
+            <l>Et dirige eos, &amp; extolle eos: uſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> in conſumma<g ref="char:EOLhyphen"/>tionem ſeculi.</l>
+            <l>Per ſingulos dies: benedicimus te.</l>
+            <l>Et veneramur nomen tuum: in ſeculum, &amp; in ſeculum ſeculi.</l>
+            <l>Dignare, Domina, die iſto: ſine peccato nos cuſto<g ref="char:EOLhyphen"/>dire.</l>
+            <l>Miſerere noſtri Domina: miſerere noſtri.</l>
+            <l>Fiat miſericordia tua ſuper nos: quemadmo<g ref="char:EOLhyphen"/>dum ſperamus in te.</l>
+            <l>In te <hi>MARIA</hi> poſt Deum ſperavi: non confun<g ref="char:EOLhyphen"/>dar in aeternum.</l>
+         </div>
+         <div xml:lang="eng" type="Psalter">
+            <pb n="60" facs="tcp:187954:32"/>
+            <head>Of like nature is that which they call <hi>Our Ladies Pſalter;</hi> where, what the Pſal<g ref="char:EOLhyphen"/>miſt applies to God, is by them apply<g ref="char:EOLhyphen"/>ed all along to the Virgin <hi>Mary.</hi> An in<g ref="char:EOLhyphen"/>ſtance whereof, we have collected by Arch Biſhop <hi>
+                  <g ref="char:V">Ʋ</g>ſher,</hi> in his Anſwer to the Jeſuits challenge. <hi>pag.</hi> 490.</head>
+            <q>BLeſſed is the man who loveth thy name, O Virgin <hi>Mary;</hi> thy grace ſhall comfort his Soul. <bibl>
+                  <hi>Pſal.</hi> 1.</bibl>
+            </q>
+            <q>Lady, how are they multiplyed that trouble me: with thy Tempeſt ſhalt thou perſecute and ſcatter them. <bibl>
+                  <hi>Pſal.</hi> 3.</bibl>
+            </q>
+            <q>Lady, ſuffer me not to be rebuked in the fu<g ref="char:EOLhyphen"/>ry of God; nor to be judged in his wrath. <bibl>
+                  <hi>Pſal.</hi> 6.</bibl>
+            </q>
+            <q>My Lady, in thee have I put my truſt: de<g ref="char:EOLhyphen"/>liver me from mine Enemies, O Lady. <bibl>
+                  <hi>Pſal.</hi> 7.</bibl>
+            </q>
+            <q>In our Lady put I my truſt: for the ſweet<g ref="char:EOLhyphen"/>neſs of the mercy of her name.<bibl>
+                  <hi>Pſal.</hi> 10. (or, as we reckon, <hi>Pſal.</hi> 11. and ſo in theſe that follow.)</bibl>
+            </q>
+            <q>How long wilt thou forget me, O Lady: and not deliver me in the day of Tribulation. <bibl>
+                  <hi>Pſal.</hi> 12.</bibl>
+            </q>
+            <q>Preſerve me, O Lady, for in thee have I put my truſt: and impart unto me the drops of thy: Grace. <bibl>
+                  <hi>Pſal.</hi> 15.</bibl>
+            </q>
+            <q>I wil love thee O Lady of Heaven and Earth
+<pb n="61" facs="tcp:187954:32"/> and will call upon thy name among the Nations. <bibl>
+                  <hi>Pſal.</hi> 17.</bibl>
+            </q>
+            <q>The Heavens declare thy Glory: and the fragrance of thine Ointments is ſpread amongſt the Nations. <bibl>
+                  <hi>Pſal.</hi> 18.</bibl>
+            </q>
+            <q>Hear us Lady in the day of trouble: and turn thy merciful face unto our Prayers. <bibl>
+                  <hi>Pſal.</hi> 19.</bibl>
+            </q>
+            <q>Unto thee, O Lady, have I lift up my Soul: in the judgment of God, by thy Prayers, I ſhall not be aſhamed. <bibl>
+                  <hi>Pſal.</hi> 24.</bibl>
+            </q>
+            <q>Judge me Lady, for I have departed from mine innocency: but becauſe I will truſt in thee, I ſhall not be weakened. <bibl>
+                  <hi>Pſal.</hi> 25.</bibl>
+            </q>
+            <q>In thee O Lady, have I put my truſt, let me never be confounded: in thy favour receive me. <bibl>
+                  <hi>Pſal.</hi> 30.</bibl>
+            </q>
+            <q>Bleſſed are they whoſe hearts do love thee O Virgin <hi>Mary:</hi> their Sins by thee ſhall merci<g ref="char:EOLhyphen"/>fully be waſhed away. <bibl>
+                  <hi>Pſal.</hi> 31.</bibl>
+            </q>
+            <q>Lady, judge them that hurt me: and riſe up againſt them, and plead my cauſe. <bibl>
+                  <hi>Pſal.</hi> 34.</bibl>
+            </q>
+            <q>Waiting have I waited for thy grace: and thou haſt done unto me, according to the multi<g ref="char:EOLhyphen"/>tude of the mercy of thy name. <bibl>
+                  <hi>Pſal.</hi> 39.</bibl>
+            </q>
+            <q>Lady, thou art our refuge in all our neceſſi<g ref="char:EOLhyphen"/>ties: and the powerful ſtrength treading down the Enemy. <bibl>
+                  <hi>Pſal.</hi> 45.</bibl>
+            </q>
+            <q>Have mercy upon me O Lady, who art called the Mother of mercy: and according to the Bowels of thy mercy cleanſe me from all mine iniquities. <bibl>
+                  <hi>Pſal.</hi> 50.</bibl>
+            </q>
+            <q>
+               <pb n="62" facs="tcp:187954:33"/>Save me Lady by thy name: and deliver me from mine unrighteouſneſs. <bibl>
+                  <hi>Pſal.</hi> 53.</bibl>
+            </q>
+            <q>Have mercy upon me O Lady, have mercy upon me becauſe my heart is prepared to ſearch out thy will: and in the ſhadow of thy wings will I reſt. <bibl>
+                  <hi>Pſal.</hi> 56.</bibl>
+            </q>
+            <q>Let <hi>Mary</hi> ariſe and let her enemies be ſcatter<g ref="char:EOLhyphen"/>ed: let them all be trodden under her feet. <bibl>
+                  <hi>Pſ.</hi> 67.</bibl>
+            </q>
+            <q>In thee O Lady have I put my truſt, let me never be put to confuſion: deliver me in thy mercy, and cauſe me to eſcape. <bibl>
+                  <hi>Pſal.</hi> 70.</bibl>
+            </q>
+            <q>Give the King thy judgement, O God: and thy mercy to the Queen his mother. <bibl>
+                  <hi>Pſal.</hi> 71.</bibl>
+            </q>
+            <q>O Lady, the Gentils are come into the in<g ref="char:EOLhyphen"/>heritance of God: whom thou by thy merits haſt conſecrated unto Chriſt. <bibl>
+                  <hi>Pſal.</hi> 78.</bibl>
+            </q>
+            <q>Thy mercies O Lady, will I ſing for ever. <bibl>
+                  <hi>Pſal.</hi> 88.</bibl>
+            </q>
+            <q>God is the Lord of revenges: but thou the mother of mercy doſt bow him to take pity. <bibl>
+                  <hi>Pſal.</hi> 93.</bibl>
+            </q>
+            <q>O come let us ſing unto our Lady: let us make a joyful noiſe to <hi>Mary</hi> our Queen that brings Salvation. <bibl>
+                  <hi>Pſal.</hi> 94.</bibl>
+            </q>
+            <q>O Sing unto our Lady a new ſong: for ſhe hath done marvelous things. <bibl>
+                  <hi>Pſal.</hi> 97.</bibl>
+            </q>
+            <q>O give thanks unto the Lord, for he is good: give thanks unto his Mother, for her mercy in<g ref="char:EOLhyphen"/>dureth for ever. <bibl>
+                  <hi>Pſal.</hi> 106, and 117.</bibl>
+            </q>
+            <q>Lady, deſpiſe not my praiſe, and except this Pſalter that is dedicated unto thee. <bibl>
+                  <hi>Pſal.</hi> 108.</bibl>
+            </q>
+            <q>
+               <pb n="63" facs="tcp:187954:33"/>The Lord ſaid unto our Lady: ſit thou, my Mother, at my right hand. <bibl>
+                  <hi>Pſal.</hi> 109.</bibl>
+            </q>
+            <q>They that truſt in thee O Mother of God: ſhall not fear from the face of the Enemy. <bibl>
+                  <hi>Pſal.</hi> 124.</bibl>
+            </q>
+            <q>Except our Lady build the houſe of our heart: the building thereof will not continue. <bibl>
+                  <hi>Pſal.</hi> 126.</bibl>
+            </q>
+            <q>Bleſſed are all they who fear our Lady: and bleſſed are all they who know to do thy will, and thy good pleaſure. <bibl>
+                  <hi>Pſal.</hi> 127.</bibl>
+            </q>
+            <q>Out of the deep have I cryed unto thee O Lady: Lady hear my Voice. <bibl>
+                  <hi>Pſal.</hi> 129.</bibl>
+            </q>
+            <q>Lady remember <hi>David:</hi> and all that call up<g ref="char:EOLhyphen"/>on thy name. <bibl>
+                  <hi>Pſal.</hi> 131.</bibl>
+            </q>
+            <q>O give thanks unto the Lord becauſe he is good: becauſe by his moſt ſweet Mother the Virgin <hi>Mary</hi> is his mercy given. <bibl>
+                  <hi>Pſal.</hi> 135.</bibl>
+            </q>
+            <q>Bleſſed be thou O Lady, who teacheth thy ſervants to war, and ſtrengtheneſt them againſt the Enemy. <bibl>
+                  <hi>Pſal.</hi> 143.</bibl>
+            </q>
+            <q>Praiſe our Lady in her Saints: praiſe her in her virtues and miracles <g ref="char:quaddotr">.˙.˙</g>. Let every thing that hath breath praiſe our Lady. <bibl>
+                  <hi>Pſal.</hi> 150.</bibl>
+            </q>
+            <p>And after the ſame rate is that whole <hi>Pſalter of our Lady,</hi> written by <hi>Bonaventure.</hi> Who's own words in Latine (which I ſpare here to re<g ref="char:EOLhyphen"/>peat) are there cited <hi>verbatim,</hi> by that Reverend Primate.</p>
+            <p>Another like Pſalter there is, framed by <hi>John Peckham,</hi> called <hi>the Pſalter of the ſalutations of the Virgin,</hi> or <hi>Pſalterium Meditationum B. Mariae.</hi>
+            </p>
+            <pb n="64" facs="tcp:187954:34"/>
+            <p>And <hi>Bernardinus de Senis,</hi> hath the conf<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>dence to tell us, That the Virgin <hi>Mary</hi> hath done as much or more, for God, than he hath done for all mankind. <hi>Sola benedicta Virgo</hi> Ma<g ref="char:EOLhyphen"/>ria <hi>plus fecit Deo vel tantum (ut ſic dicam) quam fecit Deus toti generi humano. Credo etenim cer<g ref="char:EOLhyphen"/>te quod mihi indulgebit Deus, ſi nunc pro Virgine loquar. Congregemus in unum quae Deus homini fe<g ref="char:EOLhyphen"/>cit: &amp; conſideremus quae</hi> Maria <hi>Virgo Domino ſatisfecit, &amp;c. Reddendo ergo ſingula ſingulis, ſc. quae fecit Deus homini, &amp; quae fecit Deo beata Virgo; videbis quod plus fecit</hi> Maria <hi>Deo, quam homini Deus. <g ref="char:V">Ʋ</g>t proſolatio dicere liceat, quod propter Beatam Virginem, quam tamen ipſe fecit, Deus quodammodo plus obligetur nobis, quam nos ſibi.</hi> Bernardin. Senens. ſerm. 61. artic. 1. cap. 11.</p>
+            <p>And <hi>Bernardinus de Buſti</hi> to the ſame purpoſe. as he is there cited.</p>
+            <p>And much more of ſuch Stuff, you may find collected together by that Reverend Prelate and Primate, in the ſame Book; eſpecially from Page. 465. to pag. 514.</p>
+            <p>So that 'tis but high time for the Popes them<g ref="char:EOLhyphen"/>ſelves (if they have but any ſenſe of Reaſon or Religion left) to put a check to theſe inſolent extravagances. And not incourage them by ſuch Indulgences, as themſelves (it ſeems) be<g ref="char:EOLhyphen"/>gin at length to be aſhamed of.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:187954:34"/>
+            <pb facs="tcp:187954:35"/>
+            <pb facs="tcp:187954:35"/>
+         </div>
+      </back>
+   </text>
+</TEI>
